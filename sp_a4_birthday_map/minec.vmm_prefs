@@ -1,0 +1,31 @@
+Maps
+{
+	VMF
+	{
+		"InternalID" "2"
+	}
+	VMF
+	{
+		"InternalID" "3"
+	}
+	VMF
+	{
+		"InternalID" "4"
+	}
+	VMF
+	{
+		"InternalID" "5"
+	}
+	VMF
+	{
+		"InternalID" "6"
+		"IsPrimary" "1"
+	}
+}
+cordoning
+{
+	cordons
+	{
+		"active" "0"
+	}
+}

@@ -1,0 +1,37 @@
+Info
+{
+	"NextInternalID" "7"
+}
+Maps
+{
+	VMF
+	{
+		"Name" "puzzle0"
+		"File" "puzzle0.vmf"
+		"InternalID" "2"
+	}
+	VMF
+	{
+		"Name" "puzzle1"
+		"File" "puzzle1.vmf"
+		"InternalID" "3"
+	}
+	VMF
+	{
+		"Name" "puzzle2"
+		"File" "puzzle2.vmf"
+		"InternalID" "4"
+	}
+	VMF
+	{
+		"Name" "bts"
+		"File" "bts.vmf"
+		"InternalID" "5"
+	}
+	VMF
+	{
+		"Name" "entry_elevator"
+		"File" "entry_elevator.vmf"
+		"InternalID" "6"
+	}
+}
