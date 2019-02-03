@@ -1,0 +1,1705 @@
+
+
+
+materialPath: D:\Steam\steamapps\common\Portal 2\portal2\materials
+Loading d:\steam\steamapps\common\portal 2\sdk_content\maps\birthday-map\sp_a4_birthday_map\puzzle1.vmf
+ConVarRef gpu_level doesn't point to an existing ConVar
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 16 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing d:\steam\steamapps\common\portal 2\sdk_content\maps\birthday-map\sp_a4_birthday_map\puzzle1.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (59868 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 134 texinfos to 75
+Reduced 29 texdatas to 25 (948 bytes to 784)
+Writing d:\steam\steamapps\common\portal 2\sdk_content\maps\birthday-map\sp_a4_birthday_map\puzzle1.bsp
+
+nummapplanes:     (  1092 / 65536 )
+nummapbrushes:    (   170 /  8192 )
+nummapbrushsides: (  1397 / 65536 )
+num_map_overlays: (    16 /   512 )
+nummodels:        (     6 /  1024 )
+num_entities:     (    56 / 16384 )
+
+0 seconds elapsed
+
+
+
+4 threads
+reading d:\steam\steamapps\common\portal 2\sdk_content\maps\birthday-map\sp_a4_birthday_map\puzzle1.bsp
+reading d:\steam\steamapps\common\portal 2\sdk_content\maps\birthday-map\sp_a4_birthday_map\puzzle1.prt
+  57 portalclusters
+ 173 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 3187
+Average clusters visible: 55
+Building PAS...
+Average clusters audible: 57
+visdatasize:1373  compressed from 912
+writing d:\steam\steamapps\common\portal 2\sdk_content\maps\birthday-map\sp_a4_birthday_map\puzzle1.bsp
+0 seconds elapsed
+
+
+
+materialPath: D:\Steam\steamapps\common\Portal 2\portal2\materials
+Loading d:\steam\steamapps\common\portal 2\sdk_content\maps\birthday-map\sp_a4_birthday_map\puzzle1.vmf
+ConVarRef gpu_level doesn't point to an existing ConVar
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 16 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing d:\steam\steamapps\common\portal 2\sdk_content\maps\birthday-map\sp_a4_birthday_map\puzzle1.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (59868 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 134 texinfos to 75
+Reduced 29 texdatas to 25 (948 bytes to 784)
+Writing d:\steam\steamapps\common\portal 2\sdk_content\maps\birthday-map\sp_a4_birthday_map\puzzle1.bsp
+
+nummapplanes:     (  1092 / 65536 )
+nummapbrushes:    (   170 /  8192 )
+nummapbrushsides: (  1397 / 65536 )
+num_map_overlays: (    16 /   512 )
+nummodels:        (     6 /  1024 )
+num_entities:     (    56 / 16384 )
+
+0 seconds elapsed
+
+
+
+4 threads
+reading d:\steam\steamapps\common\portal 2\sdk_content\maps\birthday-map\sp_a4_birthday_map\puzzle1.bsp
+reading d:\steam\steamapps\common\portal 2\sdk_content\maps\birthday-map\sp_a4_birthday_map\puzzle1.prt
+  57 portalclusters
+ 173 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 3187
+Average clusters visible: 55
+Building PAS...
+Average clusters audible: 57
+visdatasize:1373  compressed from 912
+writing d:\steam\steamapps\common\portal 2\sdk_content\maps\birthday-map\sp_a4_birthday_map\puzzle1.bsp
+0 seconds elapsed
+
+
+
+materialPath: D:\Steam\steamapps\common\Portal 2\portal2\materials
+Loading d:\steam\steamapps\common\portal 2\sdk_content\maps\birthday-map\sp_a4_birthday_map\puzzle1.vmf
+ConVarRef gpu_level doesn't point to an existing ConVar
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 16 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing d:\steam\steamapps\common\portal 2\sdk_content\maps\birthday-map\sp_a4_birthday_map\puzzle1.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (59868 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 134 texinfos to 75
+Reduced 29 texdatas to 25 (948 bytes to 784)
+Writing d:\steam\steamapps\common\portal 2\sdk_content\maps\birthday-map\sp_a4_birthday_map\puzzle1.bsp
+
+nummapplanes:     (  1092 / 65536 )
+nummapbrushes:    (   170 /  8192 )
+nummapbrushsides: (  1397 / 65536 )
+num_map_overlays: (    16 /   512 )
+nummodels:        (     6 /  1024 )
+num_entities:     (    56 / 16384 )
+
+0 seconds elapsed
+
+
+
+4 threads
+reading d:\steam\steamapps\common\portal 2\sdk_content\maps\birthday-map\sp_a4_birthday_map\puzzle1.bsp
+reading d:\steam\steamapps\common\portal 2\sdk_content\maps\birthday-map\sp_a4_birthday_map\puzzle1.prt
+  57 portalclusters
+ 173 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 3187
+Average clusters visible: 55
+Building PAS...
+Average clusters audible: 57
+visdatasize:1373  compressed from 912
+writing d:\steam\steamapps\common\portal 2\sdk_content\maps\birthday-map\sp_a4_birthday_map\puzzle1.bsp
+0 seconds elapsed
+
+
+
+materialPath: D:\Steam\steamapps\common\Portal 2\portal2\materials
+Loading d:\steam\steamapps\common\portal 2\sdk_content\maps\birthday-map\sp_a4_birthday_map\puzzle1.vmf
+ConVarRef gpu_level doesn't point to an existing ConVar
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 16 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing d:\steam\steamapps\common\portal 2\sdk_content\maps\birthday-map\sp_a4_birthday_map\puzzle1.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (59868 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 134 texinfos to 75
+Reduced 29 texdatas to 25 (948 bytes to 784)
+Writing d:\steam\steamapps\common\portal 2\sdk_content\maps\birthday-map\sp_a4_birthday_map\puzzle1.bsp
+
+nummapplanes:     (  1092 / 65536 )
+nummapbrushes:    (   170 /  8192 )
+nummapbrushsides: (  1397 / 65536 )
+num_map_overlays: (    16 /   512 )
+nummodels:        (     6 /  1024 )
+num_entities:     (    56 / 16384 )
+
+0 seconds elapsed
+
+
+
+4 threads
+reading d:\steam\steamapps\common\portal 2\sdk_content\maps\birthday-map\sp_a4_birthday_map\puzzle1.bsp
+reading d:\steam\steamapps\common\portal 2\sdk_content\maps\birthday-map\sp_a4_birthday_map\puzzle1.prt
+  57 portalclusters
+ 173 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 3187
+Average clusters visible: 55
+Building PAS...
+Average clusters audible: 57
+visdatasize:1373  compressed from 912
+writing d:\steam\steamapps\common\portal 2\sdk_content\maps\birthday-map\sp_a4_birthday_map\puzzle1.bsp
+0 seconds elapsed
+
+
+
+materialPath: D:\Steam\steamapps\common\Portal 2\portal2\materials
+Loading d:\steam\steamapps\common\portal 2\sdk_content\maps\birthday-map\sp_a4_birthday_map\puzzle1.vmf
+ConVarRef gpu_level doesn't point to an existing ConVar
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 16 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing d:\steam\steamapps\common\portal 2\sdk_content\maps\birthday-map\sp_a4_birthday_map\puzzle1.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (61556 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 137 texinfos to 78
+Reduced 31 texdatas to 27 (1003 bytes to 839)
+Writing d:\steam\steamapps\common\portal 2\sdk_content\maps\birthday-map\sp_a4_birthday_map\puzzle1.bsp
+
+nummapplanes:     (  1098 / 65536 )
+nummapbrushes:    (   175 /  8192 )
+nummapbrushsides: (  1431 / 65536 )
+num_map_overlays: (    16 /   512 )
+nummodels:        (     6 /  1024 )
+num_entities:     (    56 / 16384 )
+
+0 seconds elapsed
+
+
+
+4 threads
+reading d:\steam\steamapps\common\portal 2\sdk_content\maps\birthday-map\sp_a4_birthday_map\puzzle1.bsp
+reading d:\steam\steamapps\common\portal 2\sdk_content\maps\birthday-map\sp_a4_birthday_map\puzzle1.prt
+  58 portalclusters
+ 174 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 3280
+Average clusters visible: 56
+Building PAS...
+Average clusters audible: 58
+visdatasize:1398  compressed from 928
+writing d:\steam\steamapps\common\portal 2\sdk_content\maps\birthday-map\sp_a4_birthday_map\puzzle1.bsp
+0 seconds elapsed
+
+
+
+materialPath: D:\Steam\steamapps\common\Portal 2\portal2\materials
+Loading d:\steam\steamapps\common\portal 2\sdk_content\maps\birthday-map\sp_a4_birthday_map\puzzle1.vmf
+ConVarRef gpu_level doesn't point to an existing ConVar
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 16 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing d:\steam\steamapps\common\portal 2\sdk_content\maps\birthday-map\sp_a4_birthday_map\puzzle1.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (61228 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 139 texinfos to 78
+Reduced 31 texdatas to 27 (1003 bytes to 839)
+Writing d:\steam\steamapps\common\portal 2\sdk_content\maps\birthday-map\sp_a4_birthday_map\puzzle1.bsp
+
+nummapplanes:     (  1092 / 65536 )
+nummapbrushes:    (   174 /  8192 )
+nummapbrushsides: (  1425 / 65536 )
+num_map_overlays: (    16 /   512 )
+nummodels:        (     6 /  1024 )
+num_entities:     (    56 / 16384 )
+
+0 seconds elapsed
+
+
+
+4 threads
+reading d:\steam\steamapps\common\portal 2\sdk_content\maps\birthday-map\sp_a4_birthday_map\puzzle1.bsp
+reading d:\steam\steamapps\common\portal 2\sdk_content\maps\birthday-map\sp_a4_birthday_map\puzzle1.prt
+  58 portalclusters
+ 174 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 3280
+Average clusters visible: 56
+Building PAS...
+Average clusters audible: 58
+visdatasize:1398  compressed from 928
+writing d:\steam\steamapps\common\portal 2\sdk_content\maps\birthday-map\sp_a4_birthday_map\puzzle1.bsp
+0 seconds elapsed
+
+
+
+materialPath: D:\Steam\steamapps\common\Portal 2\portal2\materials
+Loading d:\steam\steamapps\common\portal 2\sdk_content\maps\birthday-map\sp_a4_birthday_map\puzzle1.vmf
+ConVarRef gpu_level doesn't point to an existing ConVar
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 16 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing d:\steam\steamapps\common\portal 2\sdk_content\maps\birthday-map\sp_a4_birthday_map\puzzle1.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (61779 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 143 texinfos to 80
+Reduced 31 texdatas to 27 (1003 bytes to 839)
+Writing d:\steam\steamapps\common\portal 2\sdk_content\maps\birthday-map\sp_a4_birthday_map\puzzle1.bsp
+
+nummapplanes:     (  1094 / 65536 )
+nummapbrushes:    (   175 /  8192 )
+nummapbrushsides: (  1431 / 65536 )
+num_map_overlays: (    16 /   512 )
+nummodels:        (     6 /  1024 )
+num_entities:     (    57 / 16384 )
+
+0 seconds elapsed
+
+
+
+4 threads
+reading d:\steam\steamapps\common\portal 2\sdk_content\maps\birthday-map\sp_a4_birthday_map\puzzle1.bsp
+reading d:\steam\steamapps\common\portal 2\sdk_content\maps\birthday-map\sp_a4_birthday_map\puzzle1.prt
+  65 portalclusters
+ 194 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 4083
+Average clusters visible: 62
+Building PAS...
+Average clusters audible: 65
+visdatasize:1697  compressed from 2080
+writing d:\steam\steamapps\common\portal 2\sdk_content\maps\birthday-map\sp_a4_birthday_map\puzzle1.bsp
+0 seconds elapsed
+
+
+
+materialPath: D:\Steam\steamapps\common\Portal 2\portal2\materials
+Loading d:\steam\steamapps\common\portal 2\sdk_content\maps\birthday-map\sp_a4_birthday_map\puzzle1.vmf
+ConVarRef gpu_level doesn't point to an existing ConVar
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 16 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing d:\steam\steamapps\common\portal 2\sdk_content\maps\birthday-map\sp_a4_birthday_map\puzzle1.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (61779 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 143 texinfos to 80
+Reduced 31 texdatas to 27 (1003 bytes to 839)
+Writing d:\steam\steamapps\common\portal 2\sdk_content\maps\birthday-map\sp_a4_birthday_map\puzzle1.bsp
+
+nummapplanes:     (  1094 / 65536 )
+nummapbrushes:    (   175 /  8192 )
+nummapbrushsides: (  1431 / 65536 )
+num_map_overlays: (    16 /   512 )
+nummodels:        (     6 /  1024 )
+num_entities:     (    57 / 16384 )
+
+0 seconds elapsed
+
+
+
+4 threads
+reading d:\steam\steamapps\common\portal 2\sdk_content\maps\birthday-map\sp_a4_birthday_map\puzzle1.bsp
+reading d:\steam\steamapps\common\portal 2\sdk_content\maps\birthday-map\sp_a4_birthday_map\puzzle1.prt
+  65 portalclusters
+ 194 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 4083
+Average clusters visible: 62
+Building PAS...
+Average clusters audible: 65
+visdatasize:1697  compressed from 2080
+writing d:\steam\steamapps\common\portal 2\sdk_content\maps\birthday-map\sp_a4_birthday_map\puzzle1.bsp
+0 seconds elapsed
+
+
+
+materialPath: D:\Steam\steamapps\common\Portal 2\portal2\materials
+Loading d:\steam\steamapps\common\portal 2\sdk_content\maps\birthday-map\sp_a4_birthday_map\puzzle1.vmf
+ConVarRef gpu_level doesn't point to an existing ConVar
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 16 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing d:\steam\steamapps\common\portal 2\sdk_content\maps\birthday-map\sp_a4_birthday_map\puzzle1.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (61715 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 141 texinfos to 78
+Reduced 31 texdatas to 27 (1003 bytes to 839)
+Writing d:\steam\steamapps\common\portal 2\sdk_content\maps\birthday-map\sp_a4_birthday_map\puzzle1.bsp
+
+nummapplanes:     (  1092 / 65536 )
+nummapbrushes:    (   175 /  8192 )
+nummapbrushsides: (  1431 / 65536 )
+num_map_overlays: (    16 /   512 )
+nummodels:        (     6 /  1024 )
+num_entities:     (    57 / 16384 )
+
+0 seconds elapsed
+
+
+
+4 threads
+reading d:\steam\steamapps\common\portal 2\sdk_content\maps\birthday-map\sp_a4_birthday_map\puzzle1.bsp
+reading d:\steam\steamapps\common\portal 2\sdk_content\maps\birthday-map\sp_a4_birthday_map\puzzle1.prt
+  59 portalclusters
+ 177 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 3397
+Average clusters visible: 57
+Building PAS...
+Average clusters audible: 59
+visdatasize:1420  compressed from 944
+writing d:\steam\steamapps\common\portal 2\sdk_content\maps\birthday-map\sp_a4_birthday_map\puzzle1.bsp
+0 seconds elapsed
+
+
+
+materialPath: D:\Steam\steamapps\common\Portal 2\portal2\materials
+Loading d:\steam\steamapps\common\portal 2\sdk_content\maps\birthday-map\sp_a4_birthday_map\puzzle1.vmf
+ConVarRef gpu_level doesn't point to an existing ConVar
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 16 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing d:\steam\steamapps\common\portal 2\sdk_content\maps\birthday-map\sp_a4_birthday_map\puzzle1.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (61715 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 141 texinfos to 78
+Reduced 31 texdatas to 27 (1003 bytes to 839)
+Writing d:\steam\steamapps\common\portal 2\sdk_content\maps\birthday-map\sp_a4_birthday_map\puzzle1.bsp
+
+nummapplanes:     (  1092 / 65536 )
+nummapbrushes:    (   175 /  8192 )
+nummapbrushsides: (  1431 / 65536 )
+num_map_overlays: (    16 /   512 )
+nummodels:        (     6 /  1024 )
+num_entities:     (    57 / 16384 )
+
+0 seconds elapsed
+
+
+
+4 threads
+reading d:\steam\steamapps\common\portal 2\sdk_content\maps\birthday-map\sp_a4_birthday_map\puzzle1.bsp
+reading d:\steam\steamapps\common\portal 2\sdk_content\maps\birthday-map\sp_a4_birthday_map\puzzle1.prt
+  59 portalclusters
+ 177 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 3397
+Average clusters visible: 57
+Building PAS...
+Average clusters audible: 59
+visdatasize:1420  compressed from 944
+writing d:\steam\steamapps\common\portal 2\sdk_content\maps\birthday-map\sp_a4_birthday_map\puzzle1.bsp
+0 seconds elapsed
+
+
+
+materialPath: D:\Steam\steamapps\common\Portal 2\portal2\materials
+Loading d:\steam\steamapps\common\portal 2\sdk_content\maps\birthday-map\sp_a4_birthday_map\puzzle1.vmf
+ConVarRef gpu_level doesn't point to an existing ConVar
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 16 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing d:\steam\steamapps\common\portal 2\sdk_content\maps\birthday-map\sp_a4_birthday_map\puzzle1.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (65454 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 154 texinfos to 86
+Reduced 31 texdatas to 27 (1003 bytes to 839)
+Writing d:\steam\steamapps\common\portal 2\sdk_content\maps\birthday-map\sp_a4_birthday_map\puzzle1.bsp
+
+nummapplanes:     (  1114 / 65536 )
+nummapbrushes:    (   185 /  8192 )
+nummapbrushsides: (  1503 / 65536 )
+num_map_overlays: (    16 /   512 )
+nummodels:        (     7 /  1024 )
+num_entities:     (    65 / 16384 )
+
+1 second elapsed
+
+
+
+4 threads
+reading d:\steam\steamapps\common\portal 2\sdk_content\maps\birthday-map\sp_a4_birthday_map\puzzle1.bsp
+reading d:\steam\steamapps\common\portal 2\sdk_content\maps\birthday-map\sp_a4_birthday_map\puzzle1.prt
+  64 portalclusters
+ 191 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 3924
+Average clusters visible: 61
+Building PAS...
+Average clusters audible: 64
+visdatasize:1540  compressed from 1024
+writing d:\steam\steamapps\common\portal 2\sdk_content\maps\birthday-map\sp_a4_birthday_map\puzzle1.bsp
+0 seconds elapsed
+
+
+
+materialPath: D:\Steam\steamapps\common\Portal 2\portal2\materials
+Loading d:\steam\steamapps\common\portal 2\sdk_content\maps\birthday-map\sp_a4_birthday_map\puzzle1.vmf
+ConVarRef gpu_level doesn't point to an existing ConVar
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 16 detail faces...done (1)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing d:\steam\steamapps\common\portal 2\sdk_content\maps\birthday-map\sp_a4_birthday_map\puzzle1.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (65454 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 154 texinfos to 86
+Reduced 31 texdatas to 27 (1003 bytes to 839)
+Writing d:\steam\steamapps\common\portal 2\sdk_content\maps\birthday-map\sp_a4_birthday_map\puzzle1.bsp
+
+nummapplanes:     (  1114 / 65536 )
+nummapbrushes:    (   185 /  8192 )
+nummapbrushsides: (  1503 / 65536 )
+num_map_overlays: (    16 /   512 )
+nummodels:        (     7 /  1024 )
+num_entities:     (    65 / 16384 )
+
+1 second elapsed
+
+
+
+4 threads
+reading d:\steam\steamapps\common\portal 2\sdk_content\maps\birthday-map\sp_a4_birthday_map\puzzle1.bsp
+reading d:\steam\steamapps\common\portal 2\sdk_content\maps\birthday-map\sp_a4_birthday_map\puzzle1.prt
+  64 portalclusters
+ 191 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 3924
+Average clusters visible: 61
+Building PAS...
+Average clusters audible: 64
+visdatasize:1540  compressed from 1024
+writing d:\steam\steamapps\common\portal 2\sdk_content\maps\birthday-map\sp_a4_birthday_map\puzzle1.bsp
+0 seconds elapsed
+
+
+
+materialPath: D:\Steam\steamapps\common\Portal 2\portal2\materials
+Loading d:\steam\steamapps\common\portal 2\sdk_content\maps\birthday-map\sp_a4_birthday_map\puzzle1.vmf
+ConVarRef gpu_level doesn't point to an existing ConVar
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 16 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing d:\steam\steamapps\common\portal 2\sdk_content\maps\birthday-map\sp_a4_birthday_map\puzzle1.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (65454 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 154 texinfos to 86
+Reduced 31 texdatas to 27 (1003 bytes to 839)
+Writing d:\steam\steamapps\common\portal 2\sdk_content\maps\birthday-map\sp_a4_birthday_map\puzzle1.bsp
+
+nummapplanes:     (  1114 / 65536 )
+nummapbrushes:    (   185 /  8192 )
+nummapbrushsides: (  1503 / 65536 )
+num_map_overlays: (    16 /   512 )
+nummodels:        (     7 /  1024 )
+num_entities:     (    65 / 16384 )
+
+1 second elapsed
+
+
+
+4 threads
+reading d:\steam\steamapps\common\portal 2\sdk_content\maps\birthday-map\sp_a4_birthday_map\puzzle1.bsp
+reading d:\steam\steamapps\common\portal 2\sdk_content\maps\birthday-map\sp_a4_birthday_map\puzzle1.prt
+  64 portalclusters
+ 191 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 3924
+Average clusters visible: 61
+Building PAS...
+Average clusters audible: 64
+visdatasize:1540  compressed from 1024
+writing d:\steam\steamapps\common\portal 2\sdk_content\maps\birthday-map\sp_a4_birthday_map\puzzle1.bsp
+0 seconds elapsed
+
+
+
+materialPath: D:\Steam\steamapps\common\Portal 2\portal2\materials
+Loading d:\steam\steamapps\common\portal 2\sdk_content\maps\birthday-map\sp_a4_birthday_map\puzzle1.vmf
+ConVarRef gpu_level doesn't point to an existing ConVar
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 16 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing d:\steam\steamapps\common\portal 2\sdk_content\maps\birthday-map\sp_a4_birthday_map\puzzle1.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (68745 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 173 texinfos to 96
+Reduced 31 texdatas to 27 (1003 bytes to 839)
+Writing d:\steam\steamapps\common\portal 2\sdk_content\maps\birthday-map\sp_a4_birthday_map\puzzle1.bsp
+
+nummapplanes:     (  1122 / 65536 )
+nummapbrushes:    (   191 /  8192 )
+nummapbrushsides: (  1544 / 65536 )
+num_map_overlays: (    16 /   512 )
+nummodels:        (    13 /  1024 )
+num_entities:     (    71 / 16384 )
+
+1 second elapsed
+
+
+
+4 threads
+reading d:\steam\steamapps\common\portal 2\sdk_content\maps\birthday-map\sp_a4_birthday_map\puzzle1.bsp
+reading d:\steam\steamapps\common\portal 2\sdk_content\maps\birthday-map\sp_a4_birthday_map\puzzle1.prt
+  64 portalclusters
+ 191 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 3924
+Average clusters visible: 61
+Building PAS...
+Average clusters audible: 64
+visdatasize:1540  compressed from 1024
+writing d:\steam\steamapps\common\portal 2\sdk_content\maps\birthday-map\sp_a4_birthday_map\puzzle1.bsp
+0 seconds elapsed
+
+
+
+materialPath: D:\Steam\steamapps\common\Portal 2\portal2\materials
+Loading d:\steam\steamapps\common\portal 2\sdk_content\maps\birthday-map\sp_a4_birthday_map\puzzle1.vmf
+ConVarRef gpu_level doesn't point to an existing ConVar
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 16 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing d:\steam\steamapps\common\portal 2\sdk_content\maps\birthday-map\sp_a4_birthday_map\puzzle1.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (68745 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 173 texinfos to 96
+Reduced 31 texdatas to 27 (1003 bytes to 839)
+Writing d:\steam\steamapps\common\portal 2\sdk_content\maps\birthday-map\sp_a4_birthday_map\puzzle1.bsp
+
+nummapplanes:     (  1122 / 65536 )
+nummapbrushes:    (   191 /  8192 )
+nummapbrushsides: (  1544 / 65536 )
+num_map_overlays: (    16 /   512 )
+nummodels:        (    13 /  1024 )
+num_entities:     (    71 / 16384 )
+
+1 second elapsed
+
+
+
+4 threads
+reading d:\steam\steamapps\common\portal 2\sdk_content\maps\birthday-map\sp_a4_birthday_map\puzzle1.bsp
+reading d:\steam\steamapps\common\portal 2\sdk_content\maps\birthday-map\sp_a4_birthday_map\puzzle1.prt
+  64 portalclusters
+ 191 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 3924
+Average clusters visible: 61
+Building PAS...
+Average clusters audible: 64
+visdatasize:1540  compressed from 1024
+writing d:\steam\steamapps\common\portal 2\sdk_content\maps\birthday-map\sp_a4_birthday_map\puzzle1.bsp
+0 seconds elapsed
+
+
+
+materialPath: D:\Steam\steamapps\common\Portal 2\portal2\materials
+Loading d:\steam\steamapps\common\portal 2\sdk_content\maps\birthday-map\sp_a4_birthday_map\puzzle1.vmf
+ConVarRef gpu_level doesn't point to an existing ConVar
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 16 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing d:\steam\steamapps\common\portal 2\sdk_content\maps\birthday-map\sp_a4_birthday_map\puzzle1.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (68745 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 173 texinfos to 96
+Reduced 31 texdatas to 27 (1003 bytes to 839)
+Writing d:\steam\steamapps\common\portal 2\sdk_content\maps\birthday-map\sp_a4_birthday_map\puzzle1.bsp
+
+nummapplanes:     (  1122 / 65536 )
+nummapbrushes:    (   191 /  8192 )
+nummapbrushsides: (  1544 / 65536 )
+num_map_overlays: (    16 /   512 )
+nummodels:        (    13 /  1024 )
+num_entities:     (    71 / 16384 )
+
+1 second elapsed
+
+
+
+4 threads
+reading d:\steam\steamapps\common\portal 2\sdk_content\maps\birthday-map\sp_a4_birthday_map\puzzle1.bsp
+reading d:\steam\steamapps\common\portal 2\sdk_content\maps\birthday-map\sp_a4_birthday_map\puzzle1.prt
+  64 portalclusters
+ 191 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 3924
+Average clusters visible: 61
+Building PAS...
+Average clusters audible: 64
+visdatasize:1540  compressed from 1024
+writing d:\steam\steamapps\common\portal 2\sdk_content\maps\birthday-map\sp_a4_birthday_map\puzzle1.bsp
+0 seconds elapsed
+
+
+
+materialPath: D:\Steam\steamapps\common\Portal 2\portal2\materials
+Loading d:\steam\steamapps\common\portal 2\sdk_content\maps\birthday-map\sp_a4_birthday_map\puzzle1.vmf
+ConVarRef gpu_level doesn't point to an existing ConVar
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 16 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing d:\steam\steamapps\common\portal 2\sdk_content\maps\birthday-map\sp_a4_birthday_map\puzzle1.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (69136 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 173 texinfos to 96
+Reduced 31 texdatas to 27 (1003 bytes to 839)
+Writing d:\steam\steamapps\common\portal 2\sdk_content\maps\birthday-map\sp_a4_birthday_map\puzzle1.bsp
+
+nummapplanes:     (  1130 / 65536 )
+nummapbrushes:    (   192 /  8192 )
+nummapbrushsides: (  1550 / 65536 )
+num_map_overlays: (    16 /   512 )
+nummodels:        (    13 /  1024 )
+num_entities:     (    71 / 16384 )
+
+1 second elapsed
+
+
+
+4 threads
+reading d:\steam\steamapps\common\portal 2\sdk_content\maps\birthday-map\sp_a4_birthday_map\puzzle1.bsp
+reading d:\steam\steamapps\common\portal 2\sdk_content\maps\birthday-map\sp_a4_birthday_map\puzzle1.prt
+  64 portalclusters
+ 191 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 3924
+Average clusters visible: 61
+Building PAS...
+Average clusters audible: 64
+visdatasize:1540  compressed from 1024
+writing d:\steam\steamapps\common\portal 2\sdk_content\maps\birthday-map\sp_a4_birthday_map\puzzle1.bsp
+0 seconds elapsed
+
+
+
+materialPath: D:\Steam\steamapps\common\Portal 2\portal2\materials
+Loading d:\steam\steamapps\common\portal 2\sdk_content\maps\birthday-map\sp_a4_birthday_map\puzzle1.vmf
+ConVarRef gpu_level doesn't point to an existing ConVar
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 16 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing d:\steam\steamapps\common\portal 2\sdk_content\maps\birthday-map\sp_a4_birthday_map\puzzle1.prt...Building visibility clusters...
+done (1)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (78165 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 246 texinfos to 133
+Reduced 33 texdatas to 29 (1059 bytes to 895)
+Writing d:\steam\steamapps\common\portal 2\sdk_content\maps\birthday-map\sp_a4_birthday_map\puzzle1.bsp
+
+nummapplanes:     (  1250 / 65536 )
+nummapbrushes:    (   207 /  8192 )
+nummapbrushsides: (  1684 / 65536 )
+num_map_overlays: (    22 /   512 )
+nummodels:        (    28 /  1024 )
+num_entities:     (   105 / 16384 )
+
+1 second elapsed
+
+
+
+4 threads
+reading d:\steam\steamapps\common\portal 2\sdk_content\maps\birthday-map\sp_a4_birthday_map\puzzle1.bsp
+reading d:\steam\steamapps\common\portal 2\sdk_content\maps\birthday-map\sp_a4_birthday_map\puzzle1.prt
+  67 portalclusters
+ 200 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 4309
+Average clusters visible: 64
+Building PAS...
+Average clusters audible: 67
+visdatasize:1746  compressed from 2144
+writing d:\steam\steamapps\common\portal 2\sdk_content\maps\birthday-map\sp_a4_birthday_map\puzzle1.bsp
+0 seconds elapsed
+
+
+
+materialPath: D:\Steam\steamapps\common\Portal 2\portal2\materials
+Loading d:\steam\steamapps\common\portal 2\sdk_content\maps\birthday-map\sp_a4_birthday_map\puzzle1.vmf
+ConVarRef gpu_level doesn't point to an existing ConVar
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 16 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing d:\steam\steamapps\common\portal 2\sdk_content\maps\birthday-map\sp_a4_birthday_map\puzzle1.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (78165 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 246 texinfos to 133
+Reduced 33 texdatas to 29 (1059 bytes to 895)
+Writing d:\steam\steamapps\common\portal 2\sdk_content\maps\birthday-map\sp_a4_birthday_map\puzzle1.bsp
+
+nummapplanes:     (  1250 / 65536 )
+nummapbrushes:    (   207 /  8192 )
+nummapbrushsides: (  1684 / 65536 )
+num_map_overlays: (    22 /   512 )
+nummodels:        (    28 /  1024 )
+num_entities:     (   105 / 16384 )
+
+1 second elapsed
+
+
+
+4 threads
+reading d:\steam\steamapps\common\portal 2\sdk_content\maps\birthday-map\sp_a4_birthday_map\puzzle1.bsp
+reading d:\steam\steamapps\common\portal 2\sdk_content\maps\birthday-map\sp_a4_birthday_map\puzzle1.prt
+  67 portalclusters
+ 200 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 4309
+Average clusters visible: 64
+Building PAS...
+Average clusters audible: 67
+visdatasize:1746  compressed from 2144
+writing d:\steam\steamapps\common\portal 2\sdk_content\maps\birthday-map\sp_a4_birthday_map\puzzle1.bsp
+0 seconds elapsed
+
+
+
+materialPath: D:\Steam\steamapps\common\Portal 2\portal2\materials
+Loading d:\steam\steamapps\common\portal 2\sdk_content\maps\birthday-map\sp_a4_birthday_map\puzzle1.vmf
+ConVarRef gpu_level doesn't point to an existing ConVar
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 16 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing d:\steam\steamapps\common\portal 2\sdk_content\maps\birthday-map\sp_a4_birthday_map\puzzle1.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (78165 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 246 texinfos to 133
+Reduced 33 texdatas to 29 (1059 bytes to 895)
+Writing d:\steam\steamapps\common\portal 2\sdk_content\maps\birthday-map\sp_a4_birthday_map\puzzle1.bsp
+
+nummapplanes:     (  1250 / 65536 )
+nummapbrushes:    (   207 /  8192 )
+nummapbrushsides: (  1684 / 65536 )
+num_map_overlays: (    22 /   512 )
+nummodels:        (    28 /  1024 )
+num_entities:     (   110 / 16384 )
+
+1 second elapsed
+
+
+
+4 threads
+reading d:\steam\steamapps\common\portal 2\sdk_content\maps\birthday-map\sp_a4_birthday_map\puzzle1.bsp
+reading d:\steam\steamapps\common\portal 2\sdk_content\maps\birthday-map\sp_a4_birthday_map\puzzle1.prt
+  67 portalclusters
+ 200 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 4309
+Average clusters visible: 64
+Building PAS...
+Average clusters audible: 67
+visdatasize:1746  compressed from 2144
+writing d:\steam\steamapps\common\portal 2\sdk_content\maps\birthday-map\sp_a4_birthday_map\puzzle1.bsp
+0 seconds elapsed
+
+
+
+materialPath: D:\Steam\steamapps\common\Portal 2\portal2\materials
+Loading d:\steam\steamapps\common\portal 2\sdk_content\maps\birthday-map\sp_a4_birthday_map\puzzle1.vmf
+ConVarRef gpu_level doesn't point to an existing ConVar
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 16 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing d:\steam\steamapps\common\portal 2\sdk_content\maps\birthday-map\sp_a4_birthday_map\puzzle1.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (78165 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 246 texinfos to 133
+Reduced 33 texdatas to 29 (1059 bytes to 895)
+Writing d:\steam\steamapps\common\portal 2\sdk_content\maps\birthday-map\sp_a4_birthday_map\puzzle1.bsp
+
+nummapplanes:     (  1250 / 65536 )
+nummapbrushes:    (   207 /  8192 )
+nummapbrushsides: (  1684 / 65536 )
+num_map_overlays: (    22 /   512 )
+nummodels:        (    28 /  1024 )
+num_entities:     (   110 / 16384 )
+
+1 second elapsed
+
+
+
+4 threads
+reading d:\steam\steamapps\common\portal 2\sdk_content\maps\birthday-map\sp_a4_birthday_map\puzzle1.bsp
+reading d:\steam\steamapps\common\portal 2\sdk_content\maps\birthday-map\sp_a4_birthday_map\puzzle1.prt
+  67 portalclusters
+ 200 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 4309
+Average clusters visible: 64
+Building PAS...
+Average clusters audible: 67
+visdatasize:1746  compressed from 2144
+writing d:\steam\steamapps\common\portal 2\sdk_content\maps\birthday-map\sp_a4_birthday_map\puzzle1.bsp
+0 seconds elapsed
+
+
+
+materialPath: D:\Steam\steamapps\common\Portal 2\portal2\materials
+Loading d:\steam\steamapps\common\portal 2\sdk_content\maps\birthday-map\sp_a4_birthday_map\puzzle1.vmf
+ConVarRef gpu_level doesn't point to an existing ConVar
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 16 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing d:\steam\steamapps\common\portal 2\sdk_content\maps\birthday-map\sp_a4_birthday_map\puzzle1.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (78165 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 246 texinfos to 133
+Reduced 33 texdatas to 29 (1059 bytes to 895)
+Writing d:\steam\steamapps\common\portal 2\sdk_content\maps\birthday-map\sp_a4_birthday_map\puzzle1.bsp
+
+nummapplanes:     (  1250 / 65536 )
+nummapbrushes:    (   207 /  8192 )
+nummapbrushsides: (  1684 / 65536 )
+num_map_overlays: (    22 /   512 )
+nummodels:        (    28 /  1024 )
+num_entities:     (   110 / 16384 )
+
+1 second elapsed
+
+
+
+4 threads
+reading d:\steam\steamapps\common\portal 2\sdk_content\maps\birthday-map\sp_a4_birthday_map\puzzle1.bsp
+reading d:\steam\steamapps\common\portal 2\sdk_content\maps\birthday-map\sp_a4_birthday_map\puzzle1.prt
+  67 portalclusters
+ 200 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 4309
+Average clusters visible: 64
+Building PAS...
+Average clusters audible: 67
+visdatasize:1746  compressed from 2144
+writing d:\steam\steamapps\common\portal 2\sdk_content\maps\birthday-map\sp_a4_birthday_map\puzzle1.bsp
+0 seconds elapsed
+
+
+
+materialPath: D:\Steam\steamapps\common\Portal 2\portal2\materials
+Loading d:\steam\steamapps\common\portal 2\sdk_content\maps\birthday-map\sp_a4_birthday_map\puzzle1.vmf
+ConVarRef gpu_level doesn't point to an existing ConVar
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 16 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+writing d:\steam\steamapps\common\portal 2\sdk_content\maps\birthday-map\sp_a4_birthday_map\puzzle1.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (78165 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 246 texinfos to 133
+Reduced 33 texdatas to 29 (1059 bytes to 895)
+Writing d:\steam\steamapps\common\portal 2\sdk_content\maps\birthday-map\sp_a4_birthday_map\puzzle1.bsp
+
+nummapplanes:     (  1250 / 65536 )
+nummapbrushes:    (   207 /  8192 )
+nummapbrushsides: (  1684 / 65536 )
+num_map_overlays: (    22 /   512 )
+nummodels:        (    28 /  1024 )
+num_entities:     (   110 / 16384 )
+
+1 second elapsed
+
+
+
+4 threads
+reading d:\steam\steamapps\common\portal 2\sdk_content\maps\birthday-map\sp_a4_birthday_map\puzzle1.bsp
+reading d:\steam\steamapps\common\portal 2\sdk_content\maps\birthday-map\sp_a4_birthday_map\puzzle1.prt
+  67 portalclusters
+ 200 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 4309
+Average clusters visible: 64
+Building PAS...
+Average clusters audible: 67
+visdatasize:1746  compressed from 2144
+writing d:\steam\steamapps\common\portal 2\sdk_content\maps\birthday-map\sp_a4_birthday_map\puzzle1.bsp
+0 seconds elapsed
+
+
+
+materialPath: D:\Steam\steamapps\common\Portal 2\portal2\materials
+Loading d:\steam\steamapps\common\portal 2\sdk_content\maps\birthday-map\sp_a4_birthday_map\puzzle1.vmf
+ConVarRef gpu_level doesn't point to an existing ConVar
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 16 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing d:\steam\steamapps\common\portal 2\sdk_content\maps\birthday-map\sp_a4_birthday_map\puzzle1.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (78165 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 246 texinfos to 133
+Reduced 33 texdatas to 29 (1059 bytes to 895)
+Writing d:\steam\steamapps\common\portal 2\sdk_content\maps\birthday-map\sp_a4_birthday_map\puzzle1.bsp
+
+nummapplanes:     (  1250 / 65536 )
+nummapbrushes:    (   207 /  8192 )
+nummapbrushsides: (  1684 / 65536 )
+num_map_overlays: (    22 /   512 )
+nummodels:        (    28 /  1024 )
+num_entities:     (   110 / 16384 )
+
+2 seconds elapsed
+
+
+
+4 threads
+reading d:\steam\steamapps\common\portal 2\sdk_content\maps\birthday-map\sp_a4_birthday_map\puzzle1.bsp
+reading d:\steam\steamapps\common\portal 2\sdk_content\maps\birthday-map\sp_a4_birthday_map\puzzle1.prt
+  67 portalclusters
+ 200 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 4309
+Average clusters visible: 64
+Building PAS...
+Average clusters audible: 67
+visdatasize:1746  compressed from 2144
+writing d:\steam\steamapps\common\portal 2\sdk_content\maps\birthday-map\sp_a4_birthday_map\puzzle1.bsp
+0 seconds elapsed
+
+
+
+materialPath: D:\Steam\steamapps\common\Portal 2\portal2\materials
+Loading d:\steam\steamapps\common\portal 2\sdk_content\maps\birthday-map\sp_a4_birthday_map\puzzle1.vmf
+ConVarRef gpu_level doesn't point to an existing ConVar
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 16 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing d:\steam\steamapps\common\portal 2\sdk_content\maps\birthday-map\sp_a4_birthday_map\puzzle1.prt...Building visibility clusters...
+done (1)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (78165 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 246 texinfos to 133
+Reduced 33 texdatas to 29 (1059 bytes to 895)
+Writing d:\steam\steamapps\common\portal 2\sdk_content\maps\birthday-map\sp_a4_birthday_map\puzzle1.bsp
+
+nummapplanes:     (  1250 / 65536 )
+nummapbrushes:    (   207 /  8192 )
+nummapbrushsides: (  1684 / 65536 )
+num_map_overlays: (    22 /   512 )
+nummodels:        (    28 /  1024 )
+num_entities:     (   109 / 16384 )
+
+1 second elapsed
+
+
+
+4 threads
+reading d:\steam\steamapps\common\portal 2\sdk_content\maps\birthday-map\sp_a4_birthday_map\puzzle1.bsp
+reading d:\steam\steamapps\common\portal 2\sdk_content\maps\birthday-map\sp_a4_birthday_map\puzzle1.prt
+  67 portalclusters
+ 200 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 4309
+Average clusters visible: 64
+Building PAS...
+Average clusters audible: 67
+visdatasize:1746  compressed from 2144
+writing d:\steam\steamapps\common\portal 2\sdk_content\maps\birthday-map\sp_a4_birthday_map\puzzle1.bsp
+0 seconds elapsed
+
+
+
+materialPath: D:\Steam\steamapps\common\Portal 2\portal2\materials
+Loading d:\steam\steamapps\common\portal 2\sdk_content\maps\birthday-map\sp_a4_birthday_map\puzzle1.vmf
+ConVarRef gpu_level doesn't point to an existing ConVar
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 16 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing d:\steam\steamapps\common\portal 2\sdk_content\maps\birthday-map\sp_a4_birthday_map\puzzle1.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (78165 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 246 texinfos to 133
+Reduced 33 texdatas to 29 (1059 bytes to 895)
+Writing d:\steam\steamapps\common\portal 2\sdk_content\maps\birthday-map\sp_a4_birthday_map\puzzle1.bsp
+
+nummapplanes:     (  1250 / 65536 )
+nummapbrushes:    (   207 /  8192 )
+nummapbrushsides: (  1684 / 65536 )
+num_map_overlays: (    22 /   512 )
+nummodels:        (    28 /  1024 )
+num_entities:     (   109 / 16384 )
+
+1 second elapsed
+
+
+
+4 threads
+reading d:\steam\steamapps\common\portal 2\sdk_content\maps\birthday-map\sp_a4_birthday_map\puzzle1.bsp
+reading d:\steam\steamapps\common\portal 2\sdk_content\maps\birthday-map\sp_a4_birthday_map\puzzle1.prt
+  67 portalclusters
+ 200 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 4309
+Average clusters visible: 64
+Building PAS...
+Average clusters audible: 67
+visdatasize:1746  compressed from 2144
+writing d:\steam\steamapps\common\portal 2\sdk_content\maps\birthday-map\sp_a4_birthday_map\puzzle1.bsp
+0 seconds elapsed
+
+
+
+materialPath: D:\Steam\steamapps\common\Portal 2\portal2\materials
+Loading d:\steam\steamapps\common\portal 2\sdk_content\maps\birthday-map\sp_a4_birthday_map\puzzle1.vmf
+ConVarRef gpu_level doesn't point to an existing ConVar
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 16 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing d:\steam\steamapps\common\portal 2\sdk_content\maps\birthday-map\sp_a4_birthday_map\puzzle1.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (78165 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 246 texinfos to 133
+Reduced 33 texdatas to 29 (1059 bytes to 895)
+Writing d:\steam\steamapps\common\portal 2\sdk_content\maps\birthday-map\sp_a4_birthday_map\puzzle1.bsp
+
+nummapplanes:     (  1250 / 65536 )
+nummapbrushes:    (   207 /  8192 )
+nummapbrushsides: (  1684 / 65536 )
+num_map_overlays: (    22 /   512 )
+nummodels:        (    28 /  1024 )
+num_entities:     (   109 / 16384 )
+
+1 second elapsed
+
+
+
+4 threads
+reading d:\steam\steamapps\common\portal 2\sdk_content\maps\birthday-map\sp_a4_birthday_map\puzzle1.bsp
+reading d:\steam\steamapps\common\portal 2\sdk_content\maps\birthday-map\sp_a4_birthday_map\puzzle1.prt
+  67 portalclusters
+ 200 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 4309
+Average clusters visible: 64
+Building PAS...
+Average clusters audible: 67
+visdatasize:1746  compressed from 2144
+writing d:\steam\steamapps\common\portal 2\sdk_content\maps\birthday-map\sp_a4_birthday_map\puzzle1.bsp
+0 seconds elapsed
+
+
+
+materialPath: D:\Steam\steamapps\common\Portal 2\portal2\materials
+Loading d:\steam\steamapps\common\portal 2\sdk_content\maps\birthday-map\sp_a4_birthday_map\puzzle1.vmf
+ConVarRef gpu_level doesn't point to an existing ConVar
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 16 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing d:\steam\steamapps\common\portal 2\sdk_content\maps\birthday-map\sp_a4_birthday_map\puzzle1.prt...Building visibility clusters...
+done (1)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (80949 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 252 texinfos to 138
+Reduced 33 texdatas to 29 (1059 bytes to 895)
+Writing d:\steam\steamapps\common\portal 2\sdk_content\maps\birthday-map\sp_a4_birthday_map\puzzle1.bsp
+
+nummapplanes:     (  1254 / 65536 )
+nummapbrushes:    (   215 /  8192 )
+nummapbrushsides: (  1733 / 65536 )
+num_map_overlays: (    22 /   512 )
+nummodels:        (    28 /  1024 )
+num_entities:     (   113 / 16384 )
+
+1 second elapsed
+
+
+
+4 threads
+reading d:\steam\steamapps\common\portal 2\sdk_content\maps\birthday-map\sp_a4_birthday_map\puzzle1.bsp
+reading d:\steam\steamapps\common\portal 2\sdk_content\maps\birthday-map\sp_a4_birthday_map\puzzle1.prt
+  70 portalclusters
+ 228 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 4580
+Average clusters visible: 65
+Building PAS...
+Average clusters audible: 70
+visdatasize:1826  compressed from 2240
+writing d:\steam\steamapps\common\portal 2\sdk_content\maps\birthday-map\sp_a4_birthday_map\puzzle1.bsp
+0 seconds elapsed
+
+
+
+materialPath: D:\Steam\steamapps\common\Portal 2\portal2\materials
+Loading d:\steam\steamapps\common\portal 2\sdk_content\maps\birthday-map\sp_a4_birthday_map\puzzle1.vmf
+ConVarRef gpu_level doesn't point to an existing ConVar
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 16 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing d:\steam\steamapps\common\portal 2\sdk_content\maps\birthday-map\sp_a4_birthday_map\puzzle1.prt...Building visibility clusters...
+done (1)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (81108 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 255 texinfos to 138
+Reduced 33 texdatas to 29 (1059 bytes to 895)
+Writing d:\steam\steamapps\common\portal 2\sdk_content\maps\birthday-map\sp_a4_birthday_map\puzzle1.bsp
+
+nummapplanes:     (  1254 / 65536 )
+nummapbrushes:    (   215 /  8192 )
+nummapbrushsides: (  1733 / 65536 )
+num_map_overlays: (    22 /   512 )
+nummodels:        (    29 /  1024 )
+num_entities:     (   114 / 16384 )
+
+1 second elapsed
+
+
+
+4 threads
+reading d:\steam\steamapps\common\portal 2\sdk_content\maps\birthday-map\sp_a4_birthday_map\puzzle1.bsp
+reading d:\steam\steamapps\common\portal 2\sdk_content\maps\birthday-map\sp_a4_birthday_map\puzzle1.prt
+  65 portalclusters
+ 200 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 4009
+Average clusters visible: 61
+Building PAS...
+Average clusters audible: 65
+visdatasize:1697  compressed from 2080
+writing d:\steam\steamapps\common\portal 2\sdk_content\maps\birthday-map\sp_a4_birthday_map\puzzle1.bsp
+0 seconds elapsed
+
+
+
+materialPath: D:\Steam\steamapps\common\Portal 2\portal2\materials
+Loading d:\steam\steamapps\common\portal 2\sdk_content\maps\birthday-map\sp_a4_birthday_map\puzzle1.vmf
+ConVarRef gpu_level doesn't point to an existing ConVar
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 16 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+writing d:\steam\steamapps\common\portal 2\sdk_content\maps\birthday-map\sp_a4_birthday_map\puzzle1.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (81076 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 255 texinfos to 138
+Reduced 33 texdatas to 29 (1059 bytes to 895)
+Writing d:\steam\steamapps\common\portal 2\sdk_content\maps\birthday-map\sp_a4_birthday_map\puzzle1.bsp
+
+nummapplanes:     (  1256 / 65536 )
+nummapbrushes:    (   215 /  8192 )
+nummapbrushsides: (  1733 / 65536 )
+num_map_overlays: (    22 /   512 )
+nummodels:        (    29 /  1024 )
+num_entities:     (   114 / 16384 )
+
+1 second elapsed
+
+
+
+4 threads
+reading d:\steam\steamapps\common\portal 2\sdk_content\maps\birthday-map\sp_a4_birthday_map\puzzle1.bsp
+reading d:\steam\steamapps\common\portal 2\sdk_content\maps\birthday-map\sp_a4_birthday_map\puzzle1.prt
+  65 portalclusters
+ 200 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 4009
+Average clusters visible: 61
+Building PAS...
+Average clusters audible: 65
+visdatasize:1697  compressed from 2080
+writing d:\steam\steamapps\common\portal 2\sdk_content\maps\birthday-map\sp_a4_birthday_map\puzzle1.bsp
+0 seconds elapsed
+
+
+
+materialPath: D:\Steam\steamapps\common\Portal 2\portal2\materials
+Loading d:\steam\steamapps\common\portal 2\sdk_content\maps\birthday-map\sp_a4_birthday_map\puzzle1.vmf
+ConVarRef gpu_level doesn't point to an existing ConVar
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 16 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing d:\steam\steamapps\common\portal 2\sdk_content\maps\birthday-map\sp_a4_birthday_map\puzzle1.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (81076 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 255 texinfos to 138
+Reduced 33 texdatas to 29 (1059 bytes to 895)
+Writing d:\steam\steamapps\common\portal 2\sdk_content\maps\birthday-map\sp_a4_birthday_map\puzzle1.bsp
+
+nummapplanes:     (  1256 / 65536 )
+nummapbrushes:    (   215 /  8192 )
+nummapbrushsides: (  1733 / 65536 )
+num_map_overlays: (    22 /   512 )
+nummodels:        (    29 /  1024 )
+num_entities:     (   114 / 16384 )
+
+1 second elapsed
+
+
+
+4 threads
+reading d:\steam\steamapps\common\portal 2\sdk_content\maps\birthday-map\sp_a4_birthday_map\puzzle1.bsp
+reading d:\steam\steamapps\common\portal 2\sdk_content\maps\birthday-map\sp_a4_birthday_map\puzzle1.prt
+  65 portalclusters
+ 200 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 0 visible clusters (0.00%)
+Total clusters visible: 4009
+Average clusters visible: 61
+Building PAS...
+Average clusters audible: 65
+visdatasize:1697  compressed from 2080
+writing d:\steam\steamapps\common\portal 2\sdk_content\maps\birthday-map\sp_a4_birthday_map\puzzle1.bsp
+0 seconds elapsed
