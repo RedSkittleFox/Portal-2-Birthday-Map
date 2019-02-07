@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "7552"
-	"mapversion" "209"
+	"mapversion" "212"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -20,7 +20,7 @@ viewsettings
 world
 {
 	"id" "5"
-	"mapversion" "209"
+	"mapversion" "212"
 	"classname" "worldspawn"
 	"detailmaterial" "detail/detailsprites"
 	"detailvbsp" "detail.vbsp"
@@ -28006,7 +28006,7 @@ entity
 {
 	"id" "18880"
 	"classname" "info_placement_helper"
-	"angles" "-90 270 0"
+	"angles" "-90 0 0"
 	"force_placement" "1"
 	"radius" "96"
 	"snap_to_helper_angles" "1"
@@ -41585,10 +41585,10 @@ entity
 		{
 			"id" "9541"
 			"plane" "(1792 -328 -384) (1792 -320 -384) (1792 -320 -320)"
-			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[0 1 0 0] 0.25"
+			"material" "ANIM_WP/FRAMEWORK/SQUAREBEAMS"
+			"uaxis" "[0 1 0 256] 0.25"
 			"vaxis" "[0 0 -1 0] 0.25"
-			"rotation" "0"
+			"rotation" "90"
 			"lightmapscale" "16"
 			"smoothing_groups" "0"
 		}
@@ -41596,10 +41596,10 @@ entity
 		{
 			"id" "9540"
 			"plane" "(1856 -328 -384) (1856 -320 -384) (1792 -320 -384)"
-			"material" "TOOLS/TOOLSNODRAW"
-			"uaxis" "[0 1 0 0] 0.25"
+			"material" "ANIM_WP/FRAMEWORK/SQUAREBEAMS"
+			"uaxis" "[0 1 0 256] 0.25"
 			"vaxis" "[1 0 0 0] 0.25"
-			"rotation" "0"
+			"rotation" "90"
 			"lightmapscale" "16"
 			"smoothing_groups" "0"
 		}
@@ -43834,8 +43834,8 @@ entity
 	"lowerThreshold" "0.15"
 	"onlyVelocityCheck" "0"
 	"origin" "2024 224 4"
-	"physicsSpeed" "450"
-	"playerSpeed" "450"
+	"physicsSpeed" "656"
+	"playerSpeed" "650"
 	"spawnflags" "9"
 	"StartDisabled" "0"
 	"upperThreshold" "0.30"
