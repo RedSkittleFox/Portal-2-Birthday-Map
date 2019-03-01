@@ -6331,3 +6331,617 @@ Level flags = 3
 Total triangle count: 6440
 Writing d:\steam\steamapps\common\portal 2\sdk_content\maps\birthday-map\sp_a4_birthday_map\puzzle1.bsp
 1 minute, 28 seconds elapsed
+
+
+
+materialPath: D:\Steam\steamapps\common\Portal 2\portal2\materials
+Loading d:\steam\steamapps\common\portal 2\sdk_content\maps\birthday-map\sp_a4_birthday_map\puzzle1.vmf
+ConVarRef gpu_level doesn't point to an existing ConVar
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity prop_static (2088.00 -64.00 -32.00) leaked!
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-768.0 2048.0 -1312.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-272.0 2048.0 -1312.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-512.0 2048.0 844.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-512.0 2048.0 -3224.0)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-512.0 3072.0 -1068.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (0.0 2576.0 -1068.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (0.0 2064.0 -3224.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (0.0 2064.0 844.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+*** Suppressing further FindPortalSide errors.... ***
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 248 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (350981 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 832 texinfos to 589
+Reduced 59 texdatas to 55 (1679 bytes to 1540)
+Writing d:\steam\steamapps\common\portal 2\sdk_content\maps\birthday-map\sp_a4_birthday_map\puzzle1.bsp
+
+nummapplanes:     (  2028 / 65536 )
+nummapbrushes:    (   941 /  8192 )
+nummapbrushsides: (  6264 / 65536 )
+num_map_overlays: (    37 /   512 )
+nummodels:        (   109 /  1024 )
+num_entities:     (   318 / 16384 )
+
+6 seconds elapsed
+
+
+
+4 threads
+reading d:\steam\steamapps\common\portal 2\sdk_content\maps\birthday-map\sp_a4_birthday_map\puzzle1.bsp
+reading d:\steam\steamapps\common\portal 2\sdk_content\maps\birthday-map\sp_a4_birthday_map\puzzle1.prt
+LoadPortals: couldn't read d:\steam\steamapps\common\portal 2\sdk_content\maps\birthday-map\sp_a4_birthday_map\puzzle1.prt
+
+
+
+materialPath: D:\Steam\steamapps\common\Portal 2\portal2\materials
+Loading d:\steam\steamapps\common\portal 2\sdk_content\maps\birthday-map\sp_a4_birthday_map\puzzle1.vmf
+ConVarRef gpu_level doesn't point to an existing ConVar
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 248 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing d:\steam\steamapps\common\portal 2\sdk_content\maps\birthday-map\sp_a4_birthday_map\puzzle1.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (351309 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 832 texinfos to 589
+Reduced 59 texdatas to 55 (1679 bytes to 1540)
+Writing d:\steam\steamapps\common\portal 2\sdk_content\maps\birthday-map\sp_a4_birthday_map\puzzle1.bsp
+
+nummapplanes:     (  2028 / 65536 )
+nummapbrushes:    (   942 /  8192 )
+nummapbrushsides: (  6270 / 65536 )
+num_map_overlays: (    37 /   512 )
+nummodels:        (   109 /  1024 )
+num_entities:     (   318 / 16384 )
+
+5 seconds elapsed
+
+
+
+4 threads
+reading d:\steam\steamapps\common\portal 2\sdk_content\maps\birthday-map\sp_a4_birthday_map\puzzle1.bsp
+reading d:\steam\steamapps\common\portal 2\sdk_content\maps\birthday-map\sp_a4_birthday_map\puzzle1.prt
+ 326 portalclusters
+ 951 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 54 visible clusters (0.00%)
+Total clusters visible: 84752
+Average clusters visible: 259
+Building PAS...
+Average clusters audible: 310
+visdatasize:28748  compressed from 31296
+writing d:\steam\steamapps\common\portal 2\sdk_content\maps\birthday-map\sp_a4_birthday_map\puzzle1.bsp
+8 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[59 texlights parsed from 'lights.rad']
+
+Loading d:\steam\steamapps\common\portal 2\sdk_content\maps\birthday-map\sp_a4_birthday_map\puzzle1.bsp
+Loaded alpha texture materials\Tools\toolsinvisible.vtf
+2821 faces
+680273 square feet [97959312.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+2821 patches before subdivision
+68507 patches after subdivision
+48 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 12411052, max 939
+transfer lists:  94.7 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(73273, 65445, 76974)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(33531, 29308, 34807)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(15996, 13864, 16536)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(7731, 6697, 8039)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(3756, 3264, 3943)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(1830, 1600, 1947)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(893, 787, 965)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(436, 388, 480)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(213, 191, 239)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(104, 95, 119)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(51, 47, 60)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(25, 23, 30)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #13 added RGB(12, 12, 15)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #14 added RGB(6, 6, 7)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #15 added RGB(3, 3, 4)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #16 added RGB(1, 1, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #17 added RGB(1, 1, 1)
+Build Patch/Sample Hash Table(s).....Done<0.0378 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                 109/1024         5232/49152    (10.6%) 
+brushes                942/8192        11304/98304    (11.5%) 
+brushsides            6273/65536       50184/524288   ( 9.6%) 
+planes                2028/65536       40560/1310720  ( 3.1%) 
+vertexes              5374/65536       64488/786432   ( 8.2%) 
+nodes                 1348/65536       43136/2097152  ( 2.1%) 
+texinfos               589/12288       42408/884736   ( 4.8%) 
+texdata                 55/2048         1760/65536    ( 2.7%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 2821/65536      157976/3670016  ( 4.3%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             2002/65536      112112/3670016  ( 3.1%) 
+facebrushes            324/0             648/0        ( 0.0%) 
+facebrushlists        2821/0           11284/0        ( 0.0%) 
+leaves                1458/65536       46656/2097152  ( 2.2%) 
+leaffaces             3324/65536        6648/131072   ( 5.1%) 
+leafbrushes           1815/65536        3630/131072   ( 2.8%) 
+areas                    4/256            32/2048     ( 1.6%) 
+surfedges            21755/512000      87020/2048000  ( 4.2%) 
+edges                13489/256000      53956/1024000  ( 5.3%) 
+LDR worldlights         48/8192         4800/819200   ( 0.6%) 
+HDR worldlights          0/8192            0/819200   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            461/32768        4610/327680   ( 1.4%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          7686/65536       15372/131072   (11.7%) 
+cubemapsamples           2/1024           32/16384    ( 0.2%) 
+overlays                37/512         13024/180224   ( 7.2%) 
+LDR lightdata         [variable]     8603536/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]       28748/16777216 ( 0.2%) 
+entdata               [variable]      112512/393216   (28.6%) 
+LDR ambient table     1458/65536        5832/262144   ( 2.2%) 
+HDR ambient table     1458/65536        5832/262144   ( 2.2%) 
+LDR leaf ambient      5545/65536      155260/1835008  ( 8.5%) 
+HDR leaf ambient      1458/65536       40824/1835008  ( 2.2%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/60874    ( 0.0%) 
+pakfile               [variable]     5226859/0        ( 0.0%) 
+physics               [variable]      351309/4194304  ( 8.4%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 1
+
+Total triangle count: 8137
+Writing d:\steam\steamapps\common\portal 2\sdk_content\maps\birthday-map\sp_a4_birthday_map\puzzle1.bsp
+2 minutes, 1 second elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[59 texlights parsed from 'lights.rad']
+
+Loading d:\steam\steamapps\common\portal 2\sdk_content\maps\birthday-map\sp_a4_birthday_map\puzzle1.bsp
+Loaded alpha texture materials\Tools\toolsinvisible.vtf
+2821 faces
+680273 square feet [97959312.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+2821 patches before subdivision
+68507 patches after subdivision
+48 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 12411052, max 939
+transfer lists:  94.7 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(73272, 65445, 76974)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(33531, 29308, 34807)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(15996, 13864, 16536)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(7731, 6697, 8039)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(3756, 3264, 3943)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(1830, 1600, 1947)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(893, 787, 965)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(436, 388, 480)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(213, 191, 239)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(104, 95, 119)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(51, 47, 60)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(25, 23, 30)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #13 added RGB(12, 12, 15)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #14 added RGB(6, 6, 7)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #15 added RGB(3, 3, 4)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #16 added RGB(1, 1, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #17 added RGB(1, 1, 1)
+Build Patch/Sample Hash Table(s).....Done<0.0275 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                 109/1024         5232/49152    (10.6%) 
+brushes                942/8192        11304/98304    (11.5%) 
+brushsides            6273/65536       50184/524288   ( 9.6%) 
+planes                2028/65536       40560/1310720  ( 3.1%) 
+vertexes              5374/65536       64488/786432   ( 8.2%) 
+nodes                 1348/65536       43136/2097152  ( 2.1%) 
+texinfos               589/12288       42408/884736   ( 4.8%) 
+texdata                 55/2048         1760/65536    ( 2.7%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 2821/65536      157976/3670016  ( 4.3%) 
+hdr faces             2821/65536      157976/3670016  ( 4.3%) 
+origfaces             2002/65536      112112/3670016  ( 3.1%) 
+facebrushes            324/0             648/0        ( 0.0%) 
+facebrushlists        2821/0           11284/0        ( 0.0%) 
+leaves                1458/65536       46656/2097152  ( 2.2%) 
+leaffaces             3324/65536        6648/131072   ( 5.1%) 
+leafbrushes           1815/65536        3630/131072   ( 2.8%) 
+areas                    4/256            32/2048     ( 1.6%) 
+surfedges            21755/512000      87020/2048000  ( 4.2%) 
+edges                13489/256000      53956/1024000  ( 5.3%) 
+LDR worldlights         48/8192         4800/819200   ( 0.6%) 
+HDR worldlights         48/8192         4800/819200   ( 0.6%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            461/32768        4610/327680   ( 1.4%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          7686/65536       15372/131072   (11.7%) 
+cubemapsamples           2/1024           32/16384    ( 0.2%) 
+overlays                37/512         13024/180224   ( 7.2%) 
+LDR lightdata         [variable]     8603536/0        ( 0.0%) 
+HDR lightdata         [variable]     8603536/0        ( 0.0%) 
+visdata               [variable]       28748/16777216 ( 0.2%) 
+entdata               [variable]      112512/393216   (28.6%) 
+LDR ambient table     1458/65536        5832/262144   ( 2.2%) 
+HDR ambient table     1458/65536        5832/262144   ( 2.2%) 
+LDR leaf ambient      5545/65536      155260/1835008  ( 8.5%) 
+HDR leaf ambient      5545/65536      155260/1835008  ( 8.5%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/60874    ( 0.0%) 
+pakfile               [variable]    10235127/0        ( 0.0%) 
+physics               [variable]      351309/4194304  ( 8.4%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 3
+
+Total triangle count: 8137
+Writing d:\steam\steamapps\common\portal 2\sdk_content\maps\birthday-map\sp_a4_birthday_map\puzzle1.bsp
+1 minute, 45 seconds elapsed
+
+
+
+materialPath: D:\Steam\steamapps\common\Portal 2\portal2\materials
+Loading d:\steam\steamapps\common\portal 2\sdk_content\maps\birthday-map\sp_a4_birthday_map\puzzle1.vmf
+ConVarRef gpu_level doesn't point to an existing ConVar
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 248 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing d:\steam\steamapps\common\portal 2\sdk_content\maps\birthday-map\sp_a4_birthday_map\puzzle1.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (335930 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 823 texinfos to 589
+Reduced 59 texdatas to 55 (1679 bytes to 1540)
+Writing d:\steam\steamapps\common\portal 2\sdk_content\maps\birthday-map\sp_a4_birthday_map\puzzle1.bsp
+
+nummapplanes:     (  2012 / 65536 )
+nummapbrushes:    (   914 /  8192 )
+nummapbrushsides: (  6102 / 65536 )
+num_map_overlays: (    37 /   512 )
+nummodels:        (    81 /  1024 )
+num_entities:     (   283 / 16384 )
+
+7 seconds elapsed
+
+
+
+4 threads
+reading d:\steam\steamapps\common\portal 2\sdk_content\maps\birthday-map\sp_a4_birthday_map\puzzle1.bsp
+reading d:\steam\steamapps\common\portal 2\sdk_content\maps\birthday-map\sp_a4_birthday_map\puzzle1.prt
+ 326 portalclusters
+ 951 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 54 visible clusters (0.00%)
+Total clusters visible: 84752
+Average clusters visible: 259
+Building PAS...
+Average clusters audible: 310
+visdatasize:28748  compressed from 31296
+writing d:\steam\steamapps\common\portal 2\sdk_content\maps\birthday-map\sp_a4_birthday_map\puzzle1.bsp
+8 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[59 texlights parsed from 'lights.rad']
+
+Loading d:\steam\steamapps\common\portal 2\sdk_content\maps\birthday-map\sp_a4_birthday_map\puzzle1.bsp
+Loaded alpha texture materials\Tools\toolsinvisible.vtf
+2821 faces
+680273 square feet [97959312.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+2821 patches before subdivision
+68507 patches after subdivision
+48 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 12411052, max 939
+transfer lists:  94.7 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(73273, 65445, 76974)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(33531, 29308, 34807)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(15996, 13864, 16536)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(7731, 6697, 8039)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(3756, 3264, 3943)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(1830, 1600, 1947)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(893, 787, 965)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(436, 388, 480)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(213, 191, 239)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(104, 95, 119)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(51, 47, 60)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(25, 23, 30)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #13 added RGB(12, 12, 15)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #14 added RGB(6, 6, 7)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #15 added RGB(3, 3, 4)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #16 added RGB(1, 1, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #17 added RGB(1, 1, 1)
+Build Patch/Sample Hash Table(s).....Done<0.0710 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  81/1024         3888/49152    ( 7.9%) 
+brushes                914/8192        10968/98304    (11.2%) 
+brushsides            6105/65536       48840/524288   ( 9.3%) 
+planes                2012/65536       40240/1310720  ( 3.1%) 
+vertexes              5150/65536       61800/786432   ( 7.9%) 
+nodes                 1180/65536       37760/2097152  ( 1.8%) 
+texinfos               589/12288       42408/884736   ( 4.8%) 
+texdata                 55/2048         1760/65536    ( 2.7%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 2821/65536      157976/3670016  ( 4.3%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             2002/65536      112112/3670016  ( 3.1%) 
+facebrushes            324/0             648/0        ( 0.0%) 
+facebrushlists        2821/0           11284/0        ( 0.0%) 
+leaves                1262/65536       40384/2097152  ( 1.9%) 
+leaffaces             3324/65536        6648/131072   ( 5.1%) 
+leafbrushes           1787/65536        3574/131072   ( 2.7%) 
+areas                    4/256            32/2048     ( 1.6%) 
+surfedges            21755/512000      87020/2048000  ( 4.2%) 
+edges                13489/256000      53956/1024000  ( 5.3%) 
+LDR worldlights         48/8192         4800/819200   ( 0.6%) 
+HDR worldlights          0/8192            0/819200   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            461/32768        4610/327680   ( 1.4%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          7686/65536       15372/131072   (11.7%) 
+cubemapsamples           2/1024           32/16384    ( 0.2%) 
+overlays                37/512         13024/180224   ( 7.2%) 
+LDR lightdata         [variable]     8603536/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]       28748/16777216 ( 0.2%) 
+entdata               [variable]       95706/393216   (24.3%) 
+LDR ambient table     1262/65536        5048/262144   ( 1.9%) 
+HDR ambient table     1262/65536        5048/262144   ( 1.9%) 
+LDR leaf ambient      5377/65536      150556/1835008  ( 8.2%) 
+HDR leaf ambient      1262/65536       35336/1835008  ( 1.9%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/60874    ( 0.0%) 
+pakfile               [variable]     5226859/0        ( 0.0%) 
+physics               [variable]      335930/4194304  ( 8.0%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 1
+
+Total triangle count: 8137
+Writing d:\steam\steamapps\common\portal 2\sdk_content\maps\birthday-map\sp_a4_birthday_map\puzzle1.bsp
+2 minutes, 37 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[59 texlights parsed from 'lights.rad']
+
+Loading d:\steam\steamapps\common\portal 2\sdk_content\maps\birthday-map\sp_a4_birthday_map\puzzle1.bsp
+Loaded alpha texture materials\Tools\toolsinvisible.vtf
+2821 faces
+680273 square feet [97959312.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+2821 patches before subdivision
+68507 patches after subdivision
+48 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 12411052, max 939
+transfer lists:  94.7 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(73273, 65445, 76974)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(33531, 29308, 34807)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(15996, 13864, 16536)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(7731, 6697, 8039)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(3756, 3264, 3943)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(1830, 1600, 1947)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(893, 787, 965)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(436, 388, 480)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(213, 191, 239)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(104, 95, 119)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(51, 47, 60)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(25, 23, 30)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #13 added RGB(12, 12, 15)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #14 added RGB(6, 6, 7)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #15 added RGB(3, 3, 4)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #16 added RGB(1, 1, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #17 added RGB(1, 1, 1)
+Build Patch/Sample Hash Table(s).....Done<0.0501 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  81/1024         3888/49152    ( 7.9%) 
+brushes                914/8192        10968/98304    (11.2%) 
+brushsides            6105/65536       48840/524288   ( 9.3%) 
+planes                2012/65536       40240/1310720  ( 3.1%) 
+vertexes              5150/65536       61800/786432   ( 7.9%) 
+nodes                 1180/65536       37760/2097152  ( 1.8%) 
+texinfos               589/12288       42408/884736   ( 4.8%) 
+texdata                 55/2048         1760/65536    ( 2.7%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                 2821/65536      157976/3670016  ( 4.3%) 
+hdr faces             2821/65536      157976/3670016  ( 4.3%) 
+origfaces             2002/65536      112112/3670016  ( 3.1%) 
+facebrushes            324/0             648/0        ( 0.0%) 
+facebrushlists        2821/0           11284/0        ( 0.0%) 
+leaves                1262/65536       40384/2097152  ( 1.9%) 
+leaffaces             3324/65536        6648/131072   ( 5.1%) 
+leafbrushes           1787/65536        3574/131072   ( 2.7%) 
+areas                    4/256            32/2048     ( 1.6%) 
+surfedges            21755/512000      87020/2048000  ( 4.2%) 
+edges                13489/256000      53956/1024000  ( 5.3%) 
+LDR worldlights         48/8192         4800/819200   ( 0.6%) 
+HDR worldlights         48/8192         4800/819200   ( 0.6%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            461/32768        4610/327680   ( 1.4%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          7686/65536       15372/131072   (11.7%) 
+cubemapsamples           2/1024           32/16384    ( 0.2%) 
+overlays                37/512         13024/180224   ( 7.2%) 
+LDR lightdata         [variable]     8603536/0        ( 0.0%) 
+HDR lightdata         [variable]     8603536/0        ( 0.0%) 
+visdata               [variable]       28748/16777216 ( 0.2%) 
+entdata               [variable]       95706/393216   (24.3%) 
+LDR ambient table     1262/65536        5048/262144   ( 1.9%) 
+HDR ambient table     1262/65536        5048/262144   ( 1.9%) 
+LDR leaf ambient      5377/65536      150556/1835008  ( 8.2%) 
+HDR leaf ambient      5377/65536      150556/1835008  ( 8.2%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/60874    ( 0.0%) 
+pakfile               [variable]    10235127/0        ( 0.0%) 
+physics               [variable]      335930/4194304  ( 8.0%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 3
+
+Total triangle count: 8137
+Writing d:\steam\steamapps\common\portal 2\sdk_content\maps\birthday-map\sp_a4_birthday_map\puzzle1.bsp
+2 minutes, 21 seconds elapsed
