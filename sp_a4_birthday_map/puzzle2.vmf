@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "7552"
-	"mapversion" "281"
+	"mapversion" "284"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -20,7 +20,7 @@ viewsettings
 world
 {
 	"id" "5"
-	"mapversion" "281"
+	"mapversion" "284"
 	"classname" "worldspawn"
 	"detailmaterial" "detail/detailsprites"
 	"detailvbsp" "detail.vbsp"
@@ -21029,25 +21029,6 @@ entity
 }
 entity
 {
-	"id" "4641"
-	"classname" "logic_branch"
-	"targetname" "puzzle2_branch_2"
-	connections
-	{
-		"OnTrue" "puzzle2_move_brushOpen0-1"
-		"OnFalse" "puzzle2_move_brushClose0-1"
-	}
-	"origin" "1240 504 -24"
-	editor
-	{
-		"color" "220 30 220"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[0 -1768]"
-	}
-}
-entity
-{
 	"id" "4744"
 	"classname" "prop_laser_catcher"
 	"angles" "0 90 0"
@@ -24092,7 +24073,7 @@ entity
 	"fadescale" "1"
 	"MaxAnimTime" "10"
 	"MinAnimTime" "5"
-	"model" "models/props/fizzler.mdl"
+	"model" "models/props/fizzler_dynamic.mdl"
 	"renderamt" "255"
 	"rendercolor" "255 255 255"
 	"skin" "0"
@@ -24117,7 +24098,7 @@ entity
 	"fadescale" "1"
 	"MaxAnimTime" "10"
 	"MinAnimTime" "5"
-	"model" "models/props/fizzler.mdl"
+	"model" "models/props/fizzler_dynamic.mdl"
 	"renderamt" "255"
 	"rendercolor" "255 255 255"
 	"skin" "0"
@@ -25071,9 +25052,10 @@ entity
 	"skin" "0"
 	connections
 	{
-		"OnPowered" "puzzle2_branch_2ToggleTest0-1"
 		"OnPowered" "puzzle2_texturetoggle6SetTextureIndex10-1"
 		"OnUnpowered" "puzzle2_texturetoggle6SetTextureIndex00-1"
+		"OnPowered" "puzzle2_move_brushOpen0-1"
+		"OnUnpowered" "puzzle2_move_brushClose0-1"
 	}
 	"origin" "1216 528 32"
 	editor
@@ -25195,10 +25177,10 @@ entity
 	"model" "models/props/portal_button.mdl"
 	connections
 	{
-		"OnPressed" "puzzle2_arm1SetAnimation90deg_out_cornerback0-1"
-		"OnPressed" "puzzle2_arm2SetAnimation90deg_out_cornerback0.1-1"
-		"OnUnPressed" "puzzle2_arm2SetAnimation90deg_in_cornerback0.1-1"
-		"OnUnPressed" "puzzle2_arm1SetAnimation90deg_in_cornerback0-1"
+		"OnPressed" "puzzle2_arm1SetAnimation90deg_out_cornerfront0-1"
+		"OnPressed" "puzzle2_arm2SetAnimation90deg_out_cornerfront0.1-1"
+		"OnUnPressed" "puzzle2_arm2SetAnimation90deg_in_cornerfront0.1-1"
+		"OnUnPressed" "puzzle2_arm1SetAnimation90deg_in_cornerfront0-1"
 		"OnPressed" "puzzle2_texturetoggle4SetTextureIndex10-1"
 		"OnUnPressed" "puzzle2_texturetoggle4SetTextureIndex00-1"
 	}
