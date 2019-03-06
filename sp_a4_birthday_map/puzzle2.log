@@ -1,0 +1,330 @@
+
+
+
+materialPath: D:\Steam\steamapps\common\Portal 2\portal2\materials
+Loading d:\steam\steamapps\common\portal 2\sdk_content\maps\birthday-map\sp_a4_birthday_map\puzzle2.vmf
+ConVarRef gpu_level doesn't point to an existing ConVar
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 88 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing d:\steam\steamapps\common\portal 2\sdk_content\maps\birthday-map\sp_a4_birthday_map\puzzle2.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Error! Variable "%keywords" is multiply defined in material "fox/indicator_panel"!
+Building Physics collision data...
+done (0) (149125 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 206 texinfos to 135
+Reduced 29 texdatas to 28 (783 bytes to 740)
+Writing d:\steam\steamapps\common\portal 2\sdk_content\maps\birthday-map\sp_a4_birthday_map\puzzle2.bsp
+
+nummapplanes:     (  2404 / 65536 )
+nummapbrushes:    (   423 /  8192 )
+nummapbrushsides: (  3493 / 65536 )
+num_map_overlays: (    61 /   512 )
+nummodels:        (    15 /  1024 )
+num_entities:     (   116 / 16384 )
+
+1 second elapsed
+
+
+
+4 threads
+reading d:\steam\steamapps\common\portal 2\sdk_content\maps\birthday-map\sp_a4_birthday_map\puzzle2.bsp
+reading d:\steam\steamapps\common\portal 2\sdk_content\maps\birthday-map\sp_a4_birthday_map\puzzle2.prt
+  76 portalclusters
+ 144 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 3 visible clusters (0.00%)
+Total clusters visible: 4031
+Average clusters visible: 53
+Building PAS...
+Average clusters audible: 75
+visdatasize:2119  compressed from 2432
+writing d:\steam\steamapps\common\portal 2\sdk_content\maps\birthday-map\sp_a4_birthday_map\puzzle2.bsp
+0 seconds elapsed
+
+
+
+materialPath: D:\Steam\steamapps\common\Portal 2\portal2\materials
+Loading d:\steam\steamapps\common\portal 2\sdk_content\maps\birthday-map\sp_a4_birthday_map\puzzle2.vmf
+ConVarRef gpu_level doesn't point to an existing ConVar
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 88 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing d:\steam\steamapps\common\portal 2\sdk_content\maps\birthday-map\sp_a4_birthday_map\puzzle2.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Error! Variable "%keywords" is multiply defined in material "fox/indicator_panel"!
+Building Physics collision data...
+done (0) (150565 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 210 texinfos to 137
+Reduced 30 texdatas to 29 (809 bytes to 766)
+Writing d:\steam\steamapps\common\portal 2\sdk_content\maps\birthday-map\sp_a4_birthday_map\puzzle2.bsp
+
+nummapplanes:     (  2410 / 65536 )
+nummapbrushes:    (   427 /  8192 )
+nummapbrushsides: (  3517 / 65536 )
+num_map_overlays: (    61 /   512 )
+nummodels:        (    15 /  1024 )
+num_entities:     (   116 / 16384 )
+
+1 second elapsed
+
+
+
+4 threads
+reading d:\steam\steamapps\common\portal 2\sdk_content\maps\birthday-map\sp_a4_birthday_map\puzzle2.bsp
+reading d:\steam\steamapps\common\portal 2\sdk_content\maps\birthday-map\sp_a4_birthday_map\puzzle2.prt
+  83 portalclusters
+ 164 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 2 visible clusters (0.00%)
+Total clusters visible: 4727
+Average clusters visible: 56
+Building PAS...
+Average clusters audible: 82
+visdatasize:2492  compressed from 2656
+writing d:\steam\steamapps\common\portal 2\sdk_content\maps\birthday-map\sp_a4_birthday_map\puzzle2.bsp
+0 seconds elapsed
+
+
+
+materialPath: D:\Steam\steamapps\common\Portal 2\portal2\materials
+Loading d:\steam\steamapps\common\portal 2\sdk_content\maps\birthday-map\sp_a4_birthday_map\puzzle2.vmf
+ConVarRef gpu_level doesn't point to an existing ConVar
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 88 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing d:\steam\steamapps\common\portal 2\sdk_content\maps\birthday-map\sp_a4_birthday_map\puzzle2.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Error! Variable "%keywords" is multiply defined in material "fox/indicator_panel"!
+Building Physics collision data...
+done (0) (151517 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 210 texinfos to 138
+Reduced 30 texdatas to 29 (809 bytes to 766)
+Writing d:\steam\steamapps\common\portal 2\sdk_content\maps\birthday-map\sp_a4_birthday_map\puzzle2.bsp
+
+nummapplanes:     (  2410 / 65536 )
+nummapbrushes:    (   430 /  8192 )
+nummapbrushsides: (  3535 / 65536 )
+num_map_overlays: (    61 /   512 )
+nummodels:        (    15 /  1024 )
+num_entities:     (   116 / 16384 )
+
+1 second elapsed
+
+
+
+4 threads
+reading d:\steam\steamapps\common\portal 2\sdk_content\maps\birthday-map\sp_a4_birthday_map\puzzle2.bsp
+reading d:\steam\steamapps\common\portal 2\sdk_content\maps\birthday-map\sp_a4_birthday_map\puzzle2.prt
+  83 portalclusters
+ 166 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 2 visible clusters (0.00%)
+Total clusters visible: 4703
+Average clusters visible: 56
+Building PAS...
+Average clusters audible: 82
+visdatasize:2493  compressed from 2656
+writing d:\steam\steamapps\common\portal 2\sdk_content\maps\birthday-map\sp_a4_birthday_map\puzzle2.bsp
+0 seconds elapsed
+
+
+
+materialPath: D:\Steam\steamapps\common\Portal 2\portal2\materials
+Loading d:\steam\steamapps\common\portal 2\sdk_content\maps\birthday-map\sp_a4_birthday_map\puzzle2.vmf
+ConVarRef gpu_level doesn't point to an existing ConVar
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 88 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing d:\steam\steamapps\common\portal 2\sdk_content\maps\birthday-map\sp_a4_birthday_map\puzzle2.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Error! Variable "%keywords" is multiply defined in material "fox/indicator_panel"!
+Building Physics collision data...
+done (0) (151549 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 210 texinfos to 138
+Reduced 30 texdatas to 29 (809 bytes to 766)
+Writing d:\steam\steamapps\common\portal 2\sdk_content\maps\birthday-map\sp_a4_birthday_map\puzzle2.bsp
+
+nummapplanes:     (  2488 / 65536 )
+nummapbrushes:    (   430 /  8192 )
+nummapbrushsides: (  3565 / 65536 )
+num_map_overlays: (    61 /   512 )
+nummodels:        (    15 /  1024 )
+num_entities:     (   116 / 16384 )
+
+1 second elapsed
+
+
+
+4 threads
+reading d:\steam\steamapps\common\portal 2\sdk_content\maps\birthday-map\sp_a4_birthday_map\puzzle2.bsp
+reading d:\steam\steamapps\common\portal 2\sdk_content\maps\birthday-map\sp_a4_birthday_map\puzzle2.prt
+  83 portalclusters
+ 166 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 4 visible clusters (0.00%)
+Total clusters visible: 4705
+Average clusters visible: 56
+Building PAS...
+Average clusters audible: 82
+visdatasize:2493  compressed from 2656
+writing d:\steam\steamapps\common\portal 2\sdk_content\maps\birthday-map\sp_a4_birthday_map\puzzle2.bsp
+0 seconds elapsed
+
+
+
+materialPath: D:\Steam\steamapps\common\Portal 2\portal2\materials
+Loading d:\steam\steamapps\common\portal 2\sdk_content\maps\birthday-map\sp_a4_birthday_map\puzzle2.vmf
+ConVarRef gpu_level doesn't point to an existing ConVar
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 88 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing d:\steam\steamapps\common\portal 2\sdk_content\maps\birthday-map\sp_a4_birthday_map\puzzle2.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Error! Variable "%keywords" is multiply defined in material "fox/indicator_panel"!
+Building Physics collision data...
+done (0) (151549 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 210 texinfos to 138
+Reduced 30 texdatas to 29 (809 bytes to 766)
+Writing d:\steam\steamapps\common\portal 2\sdk_content\maps\birthday-map\sp_a4_birthday_map\puzzle2.bsp
+
+nummapplanes:     (  2488 / 65536 )
+nummapbrushes:    (   430 /  8192 )
+nummapbrushsides: (  3565 / 65536 )
+num_map_overlays: (    61 /   512 )
+nummodels:        (    15 /  1024 )
+num_entities:     (   115 / 16384 )
+
+0 seconds elapsed
+
+
+
+4 threads
+reading d:\steam\steamapps\common\portal 2\sdk_content\maps\birthday-map\sp_a4_birthday_map\puzzle2.bsp
+reading d:\steam\steamapps\common\portal 2\sdk_content\maps\birthday-map\sp_a4_birthday_map\puzzle2.prt
+  83 portalclusters
+ 166 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 4 visible clusters (0.00%)
+Total clusters visible: 4705
+Average clusters visible: 56
+Building PAS...
+Average clusters audible: 82
+visdatasize:2493  compressed from 2656
+writing d:\steam\steamapps\common\portal 2\sdk_content\maps\birthday-map\sp_a4_birthday_map\puzzle2.bsp
+0 seconds elapsed
+
+
+
+materialPath: D:\Steam\steamapps\common\Portal 2\portal2\materials
+Loading d:\steam\steamapps\common\portal 2\sdk_content\maps\birthday-map\sp_a4_birthday_map\puzzle2.vmf
+ConVarRef gpu_level doesn't point to an existing ConVar
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 88 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing d:\steam\steamapps\common\portal 2\sdk_content\maps\birthday-map\sp_a4_birthday_map\puzzle2.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Error! Variable "%keywords" is multiply defined in material "fox/indicator_panel"!
+Building Physics collision data...
+done (1) (217973 bytes)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 218 texinfos to 141
+Reduced 32 texdatas to 31 (857 bytes to 814)
+Writing d:\steam\steamapps\common\portal 2\sdk_content\maps\birthday-map\sp_a4_birthday_map\puzzle2.bsp
+
+nummapplanes:     (  2934 / 65536 )
+nummapbrushes:    (   619 /  8192 )
+nummapbrushsides: (  5090 / 65536 )
+num_map_overlays: (    61 /   512 )
+nummodels:        (    15 /  1024 )
+num_entities:     (   162 / 16384 )
+
+1 second elapsed
+
+
+
+4 threads
+reading d:\steam\steamapps\common\portal 2\sdk_content\maps\birthday-map\sp_a4_birthday_map\puzzle2.bsp
+reading d:\steam\steamapps\common\portal 2\sdk_content\maps\birthday-map\sp_a4_birthday_map\puzzle2.prt
+ 294 portalclusters
+ 825 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 134 visible clusters (0.00%)
+Total clusters visible: 57668
+Average clusters visible: 196
+Building PAS...
+Average clusters audible: 288
+visdatasize:23647  compressed from 23520
+writing d:\steam\steamapps\common\portal 2\sdk_content\maps\birthday-map\sp_a4_birthday_map\puzzle2.bsp
+20 seconds elapsed
