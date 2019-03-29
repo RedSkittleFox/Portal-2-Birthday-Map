@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "7552"
-	"mapversion" "472"
+	"mapversion" "473"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -26,7 +26,7 @@ viewsettings
 world
 {
 	"id" "5"
-	"mapversion" "6"
+	"mapversion" "12"
 	"classname" "worldspawn"
 	"detailmaterial" "detail/detailsprites"
 	"detailvbsp" "detail.vbsp"
@@ -61487,20 +61487,6 @@ entity
 }
 entity
 {
-	"id" "11034"
-	"classname" "prop_testchamber_door"
-	"angles" "0 180 0"
-	"origin" "2544 1760 1536"
-	editor
-	{
-		"color" "220 30 220"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[0 14000]"
-	}
-}
-entity
-{
 	"id" "11051"
 	"classname" "prop_static"
 	"angles" "0 180 0"
@@ -88573,54 +88559,6 @@ entity
 		"visgroupshown" "1"
 		"visgroupautoshown" "1"
 		"logicalpos" "[2000 3000]"
-	}
-}
-entity
-{
-	"id" "3400"
-	"classname" "info_player_start"
-	"angles" "0 0 0"
-	"origin" "2576 1760 1536"
-	editor
-	{
-		"color" "0 255 0"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[2000 6500]"
-	}
-}
-entity
-{
-	"id" "3408"
-	"classname" "weapon_portalgun"
-	"angles" "0 0 0"
-	"CanFirePortal1" "1"
-	"CanFirePortal2" "1"
-	"fademindist" "-1"
-	"fadescale" "1"
-	"origin" "2568 1760 1544"
-	editor
-	{
-		"color" "0 0 200"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[2000 7000]"
-	}
-}
-entity
-{
-	"id" "3414"
-	"classname" "prop_weighted_cube"
-	"allowfunnel" "1"
-	"angles" "0 0 0"
-	"PaintPower" "4"
-	"origin" "2637.43 1874.47 1555.03"
-	editor
-	{
-		"color" "220 30 220"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[2000 7500]"
 	}
 }
 entity

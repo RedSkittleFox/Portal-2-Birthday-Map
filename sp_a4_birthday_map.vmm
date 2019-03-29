@@ -1,6 +1,6 @@
 Info
 {
-	"NextInternalID" "7"
+	"NextInternalID" "8"
 }
 Maps
 {
@@ -33,5 +33,11 @@ Maps
 		"Name" "entry_elevator"
 		"File" "entry_elevator.vmf"
 		"InternalID" "6"
+	}
+	VMF
+	{
+		"Name" "connector"
+		"File" "connector.vmf"
+		"InternalID" "7"
 	}
 }
