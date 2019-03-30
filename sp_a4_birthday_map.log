@@ -138,3 +138,404 @@ Average clusters audible: 289
 visdatasize:80933  compressed from 170768
 writing d:\steam\steamapps\common\portal 2\sdk_content\maps\birthday-map\sp_a4_birthday_map.bsp
 25 seconds elapsed
+
+
+
+materialPath: D:\Steam\steamapps\common\Portal 2\portal2\materials
+ConVarRef gpu_level doesn't point to an existing ConVar
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 1028 detail faces...done (0)
+Merging details...done (1)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+writing d:\steam\steamapps\common\portal 2\sdk_content\maps\birthday-map\sp_a4_birthday_map.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Error! Variable "%keywords" is multiply defined in material "fox/indicator_panel"!
+Building Physics collision data...
+done (2) (1265683 bytes)
+Static prop models/props_bts/duct_intersect_recttb.mdl outside the map (1568.00, 1408.00, 2208.00)
+Static prop models/props_bts/duct_256b.mdl outside the map (1568.00, 1216.00, 2176.00)
+Static prop models/props_bts/electrical_wire_straight_256_01a.mdl outside the map (1600.00, 1580.00, 2240.00)
+Static prop models/props_bts/electrical_wire_straight_256_01a.mdl outside the map (1600.00, 1320.00, 2240.00)
+Encountered obsolete static prop option to do its fade in screen space @ 1088.00 2672.00 2047.90
+Encountered obsolete static prop option to do its fade in screen space @ 1216.00 2672.00 2047.90
+Encountered obsolete static prop option to do its fade in screen space @ 1344.00 2672.00 2047.90
+Encountered obsolete static prop option to do its fade in screen space @ 1472.00 2672.00 2047.90
+Encountered obsolete static prop option to do its fade in screen space @ 1631.90 2464.25 1776.25
+Encountered obsolete static prop option to do its fade in screen space @ 1216.00 3184.00 1983.90
+Encountered obsolete static prop option to do its fade in screen space @ 1344.00 3184.00 1983.90
+Encountered obsolete static prop option to do its fade in screen space @ 1472.00 2064.00 1855.90
+Encountered obsolete static prop option to do its fade in screen space @ 1344.00 2064.00 1855.90
+Encountered obsolete static prop option to do its fade in screen space @ 1216.00 2064.00 1855.90
+Encountered obsolete static prop option to do its fade in screen space @ 1088.00 2064.00 1855.90
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 2188 texinfos to 1601
+Reduced 120 texdatas to 113 (3796 bytes to 3535)
+Writing d:\steam\steamapps\common\portal 2\sdk_content\maps\birthday-map\sp_a4_birthday_map.bsp
+
+nummapplanes:     ( 11556 / 65536 )
+nummapbrushes:    (  3477 /  8192 )
+nummapbrushsides: ( 25850 / 65536 )
+num_map_overlays: (   183 /   512 )
+nummodels:        (   205 /  1024 )
+num_entities:     (   851 / 16384 )
+
+23 seconds elapsed
+
+
+
+4 threads
+reading d:\steam\steamapps\common\portal 2\sdk_content\maps\birthday-map\sp_a4_birthday_map.bsp
+reading d:\steam\steamapps\common\portal 2\sdk_content\maps\birthday-map\sp_a4_birthday_map.prt
+ 821 portalclusters
+2245 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 368 visible clusters (0.00%)
+Total clusters visible: 167899
+Average clusters visible: 204
+Building PAS...
+Average clusters audible: 289
+visdatasize:80933  compressed from 170768
+writing d:\steam\steamapps\common\portal 2\sdk_content\maps\birthday-map\sp_a4_birthday_map.bsp
+35 seconds elapsed
+
+
+
+materialPath: D:\Steam\steamapps\common\Portal 2\portal2\materials
+ConVarRef gpu_level doesn't point to an existing ConVar
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (1)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 1028 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing d:\steam\steamapps\common\portal 2\sdk_content\maps\birthday-map\sp_a4_birthday_map.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Error! Variable "%keywords" is multiply defined in material "fox/indicator_panel"!
+Building Physics collision data...
+done (2) (1273047 bytes)
+Static prop models/props_bts/duct_intersect_recttb.mdl outside the map (1568.00, 1408.00, 2208.00)
+Static prop models/props_bts/duct_256b.mdl outside the map (1568.00, 1216.00, 2176.00)
+Static prop models/props_bts/electrical_wire_straight_256_01a.mdl outside the map (1600.00, 1580.00, 2240.00)
+Static prop models/props_bts/electrical_wire_straight_256_01a.mdl outside the map (1600.00, 1320.00, 2240.00)
+Encountered obsolete static prop option to do its fade in screen space @ 1088.00 2672.00 2047.90
+Encountered obsolete static prop option to do its fade in screen space @ 1216.00 2672.00 2047.90
+Encountered obsolete static prop option to do its fade in screen space @ 1344.00 2672.00 2047.90
+Encountered obsolete static prop option to do its fade in screen space @ 1472.00 2672.00 2047.90
+Encountered obsolete static prop option to do its fade in screen space @ 1631.90 2464.25 1776.25
+Encountered obsolete static prop option to do its fade in screen space @ 1216.00 3184.00 1983.90
+Encountered obsolete static prop option to do its fade in screen space @ 1344.00 3184.00 1983.90
+Encountered obsolete static prop option to do its fade in screen space @ 1472.00 2064.00 1855.90
+Encountered obsolete static prop option to do its fade in screen space @ 1344.00 2064.00 1855.90
+Encountered obsolete static prop option to do its fade in screen space @ 1216.00 2064.00 1855.90
+Encountered obsolete static prop option to do its fade in screen space @ 1088.00 2064.00 1855.90
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 2203 texinfos to 1610
+Reduced 120 texdatas to 113 (3796 bytes to 3535)
+Writing d:\steam\steamapps\common\portal 2\sdk_content\maps\birthday-map\sp_a4_birthday_map.bsp
+
+nummapplanes:     ( 11594 / 65536 )
+nummapbrushes:    (  3493 /  8192 )
+nummapbrushsides: ( 25947 / 65536 )
+num_map_overlays: (   183 /   512 )
+nummodels:        (   215 /  1024 )
+num_entities:     (   916 / 16384 )
+
+12 seconds elapsed
+
+
+
+4 threads
+reading d:\steam\steamapps\common\portal 2\sdk_content\maps\birthday-map\sp_a4_birthday_map.bsp
+reading d:\steam\steamapps\common\portal 2\sdk_content\maps\birthday-map\sp_a4_birthday_map.prt
+ 828 portalclusters
+2265 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 369 visible clusters (0.00%)
+Total clusters visible: 171027
+Average clusters visible: 206
+Building PAS...
+Average clusters audible: 293
+visdatasize:82451  compressed from 172224
+writing d:\steam\steamapps\common\portal 2\sdk_content\maps\birthday-map\sp_a4_birthday_map.bsp
+22 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[59 texlights parsed from 'lights.rad']
+
+Loading d:\steam\steamapps\common\portal 2\sdk_content\maps\birthday-map\sp_a4_birthday_map.bsp
+Loaded alpha texture materials\Tools\toolsinvisible.vtf
+11656 faces
+1 degenerate faces
+3719817 square feet [535653728.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+11655 patches before subdivision
+357581 patches after subdivision
+811 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 74038852, max 1216
+transfer lists: 564.9 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(1338773, 2260684, 2525248)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(300334, 492016, 572054)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(134014, 222858, 268588)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(66899, 112600, 137835)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(34226, 58322, 72256)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(17662, 30464, 38160)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(9178, 16030, 20300)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(4794, 8477, 10851)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(2515, 4501, 5824)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(1325, 2399, 3136)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(700, 1282, 1694)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(371, 687, 917)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #13 added RGB(197, 368, 497)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #14 added RGB(105, 198, 270)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #15 added RGB(56, 107, 147)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #16 added RGB(30, 58, 80)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #17 added RGB(16, 31, 44)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #18 added RGB(9, 17, 24)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #19 added RGB(5, 9, 13)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #20 added RGB(3, 5, 7)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #21 added RGB(1, 3, 4)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #22 added RGB(1, 1, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #23 added RGB(0, 1, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #24 added RGB(0, 0, 1)
+Build Patch/Sample Hash Table(s).....Done<2.9345 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+4 of 628 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Computing static prop lighting : 00...1...2...3...4...5...6...7...8...9...10
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                 215/1024        10320/49152    (21.0%) 
+brushes               3493/8192        41916/98304    (42.6%) 
+brushsides           25999/65536      207992/524288   (39.7%) 
+planes               11594/65536      231880/1310720  (17.7%) 
+vertexes             20247/65536      242964/786432   (30.9%) 
+nodes                 3298/65536      105536/2097152  ( 5.0%) 
+texinfos              1610/12288      115920/884736   (13.1%) 
+texdata                113/2048         3616/65536    ( 5.5%) 
+dispinfos                0/0               0/0        ( 0.0%) 
+disp_verts               0/0               0/0        ( 0.0%) 
+disp_tris                0/0               0/0        ( 0.0%) 
+disp_multiblend          0/0               0/0        ( 0.0%) 
+disp_lmsamples           0/0               0/0        ( 0.0%) 
+faces                11656/65536      652736/3670016  (17.8%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             7426/65536      415856/3670016  (11.3%) 
+facebrushes           1395/0            2790/0        ( 0.0%) 
+facebrushlists       11656/0           46624/0        ( 0.0%) 
+leaves                3514/65536      112448/2097152  ( 5.4%) 
+leaffaces            13930/65536       27860/131072   (21.3%) 
+leafbrushes           5680/65536       11360/131072   ( 8.7%) 
+areas                   12/256            96/2048     ( 4.7%) 
+surfedges            85057/512000     340228/2048000  (16.6%) 
+edges                53070/256000     212280/1024000  (20.7%) 
+LDR worldlights        811/8192        81100/819200   ( 9.9%) 
+HDR worldlights          0/8192            0/819200   ( 0.0%) 
+leafwaterdata            1/32768          12/393216   ( 0.0%) 
+waterstrips           1784/32768       17840/327680   ( 5.4%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices         31629/65536       63258/131072   (48.3%) 
+cubemapsamples           5/1024           80/16384    ( 0.5%) 
+overlays               183/512         64416/180224   (35.7%) 
+LDR lightdata         [variable]    36801804/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]       82451/16777216 ( 0.5%) 
+entdata               [variable]      302949/393216   (77.0%) 
+LDR ambient table     3514/65536       14056/262144   ( 5.4%) 
+HDR ambient table     3514/65536       14056/262144   ( 5.4%) 
+LDR leaf ambient     14101/65536      394828/1835008  (21.5%) 
+HDR leaf ambient      3514/65536       98392/1835008  ( 5.4%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/200512   ( 0.0%) 
+pakfile               [variable]    25701276/0        ( 0.0%) 
+physics               [variable]     1273047/4194304  (30.4%) 
+physics terrain       [variable]           2/1048576  ( 0.0%) 
+
+Level flags = 1
+
+Total triangle count: 32270
+Writing d:\steam\steamapps\common\portal 2\sdk_content\maps\birthday-map\sp_a4_birthday_map.bsp
+2 hours, 34 minutes, 39 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[59 texlights parsed from 'lights.rad']
+
+Loading d:\steam\steamapps\common\portal 2\sdk_content\maps\birthday-map\sp_a4_birthday_map.bsp
+Loaded alpha texture materials\Tools\toolsinvisible.vtf
+11656 faces
+1 degenerate faces
+3719817 square feet [535653728.00 square inches]
+0 Displacements
+0 Square Feet [0.00 Square Inches]
+11655 patches before subdivision
+357581 patches after subdivision
+811 direct lights
+0...1...2...3...4...5...6...7...8...9...10
+
+
+materialPath: D:\Steam\steamapps\common\Portal 2\portal2\materials
+ConVarRef gpu_level doesn't point to an existing ConVar
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 1028 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (1)
+writing d:\steam\steamapps\common\portal 2\sdk_content\maps\birthday-map\sp_a4_birthday_map.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Error! Variable "%keywords" is multiply defined in material "fox/indicator_panel"!
+Building Physics collision data...
+done (2) (1291023 bytes)
+Static prop models/props_bts/duct_intersect_recttb.mdl outside the map (1568.00, 1408.00, 2208.00)
+Static prop models/props_bts/duct_256b.mdl outside the map (1568.00, 1216.00, 2176.00)
+Static prop models/props_bts/electrical_wire_straight_256_01a.mdl outside the map (1600.00, 1580.00, 2240.00)
+Static prop models/props_bts/electrical_wire_straight_256_01a.mdl outside the map (1600.00, 1320.00, 2240.00)
+Encountered obsolete static prop option to do its fade in screen space @ 1088.00 2672.00 2047.90
+Encountered obsolete static prop option to do its fade in screen space @ 1216.00 2672.00 2047.90
+Encountered obsolete static prop option to do its fade in screen space @ 1344.00 2672.00 2047.90
+Encountered obsolete static prop option to do its fade in screen space @ 1472.00 2672.00 2047.90
+Encountered obsolete static prop option to do its fade in screen space @ 1631.90 2464.25 1776.25
+Encountered obsolete static prop option to do its fade in screen space @ 1216.00 3184.00 1983.90
+Encountered obsolete static prop option to do its fade in screen space @ 1344.00 3184.00 1983.90
+Encountered obsolete static prop option to do its fade in screen space @ 1472.00 2064.00 1855.90
+Encountered obsolete static prop option to do its fade in screen space @ 1344.00 2064.00 1855.90
+Encountered obsolete static prop option to do its fade in screen space @ 1216.00 2064.00 1855.90
+Encountered obsolete static prop option to do its fade in screen space @ 1088.00 2064.00 1855.90
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 2224 texinfos to 1631
+Reduced 120 texdatas to 113 (3796 bytes to 3535)
+Writing d:\steam\steamapps\common\portal 2\sdk_content\maps\birthday-map\sp_a4_birthday_map.bsp
+
+nummapplanes:     ( 11636 / 65536 )
+nummapbrushes:    (  3534 /  8192 )
+nummapbrushsides: ( 26193 / 65536 )
+num_map_overlays: (   183 /   512 )
+nummodels:        (   223 /  1024 )
+num_entities:     (   926 / 16384 )
+
+13 seconds elapsed
+
+
+
+4 threads
+reading d:\steam\steamapps\common\portal 2\sdk_content\maps\birthday-map\sp_a4_birthday_map.bsp
+reading d:\steam\steamapps\common\portal 2\sdk_content\maps\birthday-map\sp_a4_birthday_map.prt
+ 828 portalclusters
+2265 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 369 visible clusters (0.00%)
+Total clusters visible: 171027
+Average clusters visible: 206
+Building PAS...
+Average clusters audible: 293
+visdatasize:82451  compressed from 172224
+writing d:\steam\steamapps\common\portal 2\sdk_content\maps\birthday-map\sp_a4_birthday_map.bsp
+27 seconds elapsed
+
+
+
+materialPath: D:\Steam\steamapps\common\Portal 2\portal2\materials
+ConVarRef gpu_level doesn't point to an existing ConVar
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 1028 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing d:\steam\steamapps\common\portal 2\sdk_content\maps\birthday-map\sp_a4_birthday_map.prt...Building visibility clusters...
+done (0)
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Error! Variable "%keywords" is multiply defined in material "fox/indicator_panel"!
+Building Physics collision data...
+done (1) (1296649 bytes)
+Static prop models/props_bts/duct_intersect_recttb.mdl outside the map (1568.00, 1408.00, 2208.00)
+Static prop models/props_bts/duct_256b.mdl outside the map (1568.00, 1216.00, 2176.00)
+Static prop models/props_bts/electrical_wire_straight_256_01a.mdl outside the map (1600.00, 1580.00, 2240.00)
+Static prop models/props_bts/electrical_wire_straight_256_01a.mdl outside the map (1600.00, 1320.00, 2240.00)
+Encountered obsolete static prop option to do its fade in screen space @ 1088.00 2672.00 2047.90
+Encountered obsolete static prop option to do its fade in screen space @ 1216.00 2672.00 2047.90
+Encountered obsolete static prop option to do its fade in screen space @ 1344.00 2672.00 2047.90
+Encountered obsolete static prop option to do its fade in screen space @ 1472.00 2672.00 2047.90
+Encountered obsolete static prop option to do its fade in screen space @ 1631.90 2464.25 1776.25
+Encountered obsolete static prop option to do its fade in screen space @ 1216.00 3184.00 1983.90
+Encountered obsolete static prop option to do its fade in screen space @ 1344.00 3184.00 1983.90
+Encountered obsolete static prop option to do its fade in screen space @ 1472.00 2064.00 1855.90
+Encountered obsolete static prop option to do its fade in screen space @ 1344.00 2064.00 1855.90
+Encountered obsolete static prop option to do its fade in screen space @ 1216.00 2064.00 1855.90
+Encountered obsolete static prop option to do its fade in screen space @ 1088.00 2064.00 1855.90
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Water found with no water_lod_control entity, creating a default one.
+Compacting texture/material tables...
+Reduced 2226 texinfos to 1633
+Reduced 120 texdatas to 113 (3796 bytes to 3535)
+Writing d:\steam\steamapps\common\portal 2\sdk_content\maps\birthday-map\sp_a4_birthday_map.bsp
+
+nummapplanes:     ( 11662 / 65536 )
+nummapbrushes:    (  3547 /  8192 )
+nummapbrushsides: ( 26271 / 65536 )
+num_map_overlays: (   183 /   512 )
+nummodels:        (   223 /  1024 )
+num_entities:     (   930 / 16384 )
+
+12 seconds elapsed
+
+
+
+4 threads
+reading d:\steam\steamapps\common\portal 2\sdk_content\maps\birthday-map\sp_a4_birthday_map.bsp
+reading d:\steam\steamapps\common\portal 2\sdk_content\maps\birthday-map\sp_a4_birthday_map.prt
+ 828 portalclusters
+2265 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 369 visible clusters (0.00%)
+Total clusters visible: 171027
+Average clusters visible: 206
+Building PAS...
+Average clusters audible: 293
+visdatasize:82451  compressed from 172224
+writing d:\steam\steamapps\common\portal 2\sdk_content\maps\birthday-map\sp_a4_birthday_map.bsp
+24 seconds elapsed

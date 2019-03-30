@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "7552"
-	"mapversion" "369"
+	"mapversion" "373"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -32,7 +32,7 @@ viewsettings
 world
 {
 	"id" "5"
-	"mapversion" "16"
+	"mapversion" "6"
 	"classname" "worldspawn"
 	"detailmaterial" "detail/detailsprites"
 	"detailvbsp" "detail.vbsp"
@@ -31839,6 +31839,23 @@ world
 }
 entity
 {
+	"id" "53012"
+	"classname" "logic_choreographed_scene"
+	"busyactor" "1"
+	"SceneFile" "scenes/npc/glados/sp_laser_powered_lift_entry01.vcd"
+	"target1" "@glados"
+	"targetname" "act4"
+	"origin" "1088.53 2093.78 1544"
+	editor
+	{
+		"color" "0 0 255"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 0]"
+	}
+}
+entity
+{
 	"id" "50011"
 	"classname" "prop_static"
 	"angles" "0 0 0"
@@ -57094,6 +57111,7 @@ entity
 		"OnTrigger" "relay_openTrigger0-1"
 		"OnTrigger" "puzzle0_door1Close0-1"
 		"OnTrigger" "relay_open2Trigger1-1"
+		"OnTrigger" "act4Start0-1"
 	}
 	solid
 	{
