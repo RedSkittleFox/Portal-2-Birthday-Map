@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "7552"
-	"mapversion" "734"
+	"mapversion" "736"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -20,7 +20,7 @@ viewsettings
 world
 {
 	"id" "5"
-	"mapversion" "6"
+	"mapversion" "5"
 	"classname" "worldspawn"
 	"detailmaterial" "detail/detailsprites"
 	"detailvbsp" "detail.vbsp"
@@ -37208,6 +37208,22 @@ world
 			"visgroupshown" "1"
 			"visgroupautoshown" "1"
 		}
+	}
+}
+entity
+{
+	"id" "93693"
+	"classname" "prop_linked_portal_door"
+	"angles" "0 0 0"
+	"partnername" "Exit_Door1"
+	"targetname" "Exit_Door2"
+	"origin" "8032 3456 -384"
+	editor
+	{
+		"color" "220 30 220"
+		"visgroupshown" "1"
+		"visgroupautoshown" "1"
+		"logicalpos" "[0 500]"
 	}
 }
 entity
@@ -127702,21 +127718,6 @@ entity
 }
 entity
 {
-	"id" "1664"
-	"classname" "prop_testchamber_door"
-	"angles" "0 0 0"
-	"targetname" "puzzle2_door1"
-	"origin" "8008 3456 -384"
-	editor
-	{
-		"color" "220 30 220"
-		"visgroupshown" "1"
-		"visgroupautoshown" "1"
-		"logicalpos" "[0 8000]"
-	}
-}
-entity
-{
 	"id" "1704"
 	"classname" "func_detail"
 	solid
@@ -132261,8 +132262,8 @@ entity
 	{
 		"OnPressed" "puzzle2_texturetoggle3SetTextureIndex10-1"
 		"OnUnPressed" "puzzle2_texturetoggle3SetTextureIndex00-1"
-		"OnPressed" "puzzle2_door1Open0-1"
-		"OnUnPressed" "puzzle2_door1Close0-1"
+		"OnPressed" "Exit_Door2Open0-1"
+		"OnUnPressed" "Exit_Door2Close0-1"
 	}
 	"origin" "8440 3488 -376"
 	editor

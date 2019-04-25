@@ -2,7 +2,7 @@ versioninfo
 {
 	"editorversion" "400"
 	"editorbuild" "7552"
-	"mapversion" "73"
+	"mapversion" "76"
 	"formatversion" "100"
 	"prefab" "0"
 }
@@ -20,7 +20,7 @@ viewsettings
 world
 {
 	"id" "5"
-	"mapversion" "6"
+	"mapversion" "5"
 	"classname" "worldspawn"
 	"detailmaterial" "detail/detailsprites"
 	"detailvbsp" "detail.vbsp"
@@ -4583,7 +4583,7 @@ entity
 	"angles" "0 90 0"
 	"partnername" "l_door_1"
 	"targetname" "l_door_2"
-	"origin" "8280 3088 0"
+	"origin" "8280 3080 0"
 	editor
 	{
 		"color" "220 30 220"
@@ -4599,7 +4599,7 @@ entity
 	"angles" "0 270 0"
 	"partnername" "l_door_3"
 	"targetname" "l_door_4"
-	"origin" "1280 3184 1664"
+	"origin" "1280 3192 1664"
 	editor
 	{
 		"color" "220 30 220"
@@ -4619,7 +4619,7 @@ entity
 	{
 		"OnOpen" "act3Start01"
 	}
-	"origin" "2576 1760 1536"
+	"origin" "2568 1760 1536"
 	editor
 	{
 		"color" "220 30 220"
@@ -4635,7 +4635,7 @@ entity
 	"angles" "0 180 0"
 	"partnername" "l_door_2"
 	"targetname" "l_door_1"
-	"origin" "1008 448 0"
+	"origin" "1016 448 0"
 	editor
 	{
 		"color" "220 30 220"
@@ -4997,7 +4997,7 @@ entity
 	"angles" "0 90 0"
 	"partnername" "l_door_4"
 	"targetname" "l_door_3"
-	"origin" "384 272 0"
+	"origin" "384 264 0"
 	editor
 	{
 		"color" "220 30 220"
@@ -5013,7 +5013,7 @@ entity
 	"angles" "0 270 0"
 	"partnername" "l_door_6"
 	"targetname" "l_door_5"
-	"origin" "384 624 0"
+	"origin" "384 632 0"
 	editor
 	{
 		"color" "220 30 220"
